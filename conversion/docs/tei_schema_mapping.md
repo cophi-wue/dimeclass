@@ -12,9 +12,6 @@ It is a work-in-progress documentation.
 
 ## Table of Contents
 
-Issues 1 table
-general elements 1-6
-TEI Header 1-4
 
 * [1. Complex Elements](#1-complex-elements)
 * [2. General Elements](#2-general-elements)
