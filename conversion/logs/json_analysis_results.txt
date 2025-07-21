@@ -1,0 +1,321 @@
+---JSON ANALYSIS BASED ON analyse_json_enanced.py + Manual additions---
+Aim: list of all key/values and html tags/Attributes in annotated json files
+
+Starting analysis in: /home/marina/code/repos/dimeclass/conversion/data/json
+
+Found 12 JSON files. Processing...
+
+Analyzing conversion/data/json/John Sinclair - Folge 003 - Jason Dark.json...
+Analyzing conversion/data/json/Froehlich_Maddrax-300_9783838712819 annotiert.json...
+Analyzing conversion/data/json/G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json...
+Analyzing conversion/data/json/Jerry Cotton Sammelband 1 - Kri - Jerry Cotton.json...
+Analyzing conversion/data/json/Jerry Cotton - Folge 3088_ Todl - Cotton, Jerry annotiert.json...
+Analyzing conversion/data/json/[Der Landser Grossband 878 ] Buchner, A - Narvik.json...
+Error decoding JSON from conversion/data/json/[Der Landser Grossband 878 ] Buchner, A - Narvik.json: Expecting value: line 65 column 29 (char 2126)
+Analyzing conversion/data/json/Gordon_Die-schoensten-Liebesromane-der_9783733729660.json...
+Analyzing conversion/data/json/Slade_Lassiter-Sammelband-1793---Wes_9783732562299.json...
+Analyzing conversion/data/json/Jerry Cotton Sammelband 2 - Krimi-Serie_ 5 - Jerry Cotton.json...
+Analyzing conversion/data/json/Der Reiz des Fremden - Blind Dates mit Fol - Ally Blake, Bonnie Gardner, Raye Morgan, L annotiert.json...
+Analyzing conversion/data/json/[Der Landser 866 ] Ewers, H G - Feindflug nach Osten.json...
+Error decoding JSON from conversion/data/json/[Der Landser 866 ] Ewers, H G - Feindflug nach Osten.json: Expecting value: line 64 column 29 (char 2024)
+Analyzing conversion/data/json/Perry Rhodan-Paket 1_ Die Dritt - Perry Rhodan.json...
+Error decoding JSON from conversion/data/json/Perry Rhodan-Paket 1_ Die Dritt - Perry Rhodan.json: Expecting ',' delimiter: line 6729 column 21 (char 17233492)
+
+--- Analysis Complete ---
+
+Overview of extracted elements and attributes for TEI mapping:
+
+--- Detailed Tag-Attribute Combinations ---
+
+Tag: <cell>
+  Attributes:
+    - rend: ['class1661', 'class1667', 'class_s5', 'class_s50w', 'class_s59s', 'class_s5a2']
+    - style: ['display: table-cell;text-align: inherit;vertical-align: bottom;padding: 0.2004em 1px 1px;', 'display: table-cell;text-align: inherit;vertical-align: bottom;padding: 1px;', 'padding-top: 0.2004em;vertical-align: bottom;', 'vertical-align: bottom;']
+  Specific 'rend' values found: ['class1661', 'class1667', 'class_s5', 'class_s50w', 'class_s59s', 'class_s5a2']
+  Specific CSS 'style' properties found: ['display', 'padding', 'padding-top', 'text-align', 'vertical-align']
+  Found in inferred types: ['reading-sample', 'unkown']
+  Found in true types: ['advertisement-intern']
+
+Tag: <div>
+  Attributes:
+    - rend: ['font-size: 1.4em;font-weight: bold;font-family: SansSerif, sans-serif;line-height: 1.3em;margin-top: 1em;margin-bottom: 1.5em;text-align: center;', 'font-size: 1.4em;font-weight: bold;line-height: 1.3em;margin-top: 1em;margin-bottom: 1.5em;text-align: center;', 'font-size: 1.6em;font-weight: bold;font-family: SansSerif, sans-serif;line-height: 1.3em;margin-top: 1em;margin-bottom: 2.0em;', 'font-size: 1.6em;font-weight: bold;line-height: 1.3em;margin-top: 1em;margin-bottom: 2.0em;', 'font-size: 120%;', 'font-size: 160% !important;']
+  Specific 'rend' values found: ['font-size: 1.4em;font-weight: bold;font-family: SansSerif, sans-serif;line-height: 1.3em;margin-top: 1em;margin-bottom: 1.5em;text-align: center;', 'font-size: 1.4em;font-weight: bold;line-height: 1.3em;margin-top: 1em;margin-bottom: 1.5em;text-align: center;', 'font-size: 1.6em;font-weight: bold;font-family: SansSerif, sans-serif;line-height: 1.3em;margin-top: 1em;margin-bottom: 2.0em;', 'font-size: 1.6em;font-weight: bold;line-height: 1.3em;margin-top: 1em;margin-bottom: 2.0em;', 'font-size: 120%;', 'font-size: 160% !important;']
+  Found in inferred types: ['feedback', 'imprint', 'reading-sample', 'toc']
+  Found in true types: ['advertisement-intern']
+
+Tag: <graphic>
+  Attributes:
+    - mimetype: ['image/jpeg']
+    - rend: ['img', 'img class1631-0', 'img class1640-1', 'img class1656', 'img class9', 'img class_s1d', 'img class_s50s', 'img class_s59m']
+    - url: ['Image00000.jpg', 'Image00001.jpg', 'Image00002.jpg', 'Image00003.jpg', 'Image00004.jpg', 'Image00005.jpg', 'Image00006.jpg', 'Images/9783732519156.jpg', 'Images/9783732519163.jpg', 'Images/9783732520985.jpg', 'Images/9783732562299.jpg', 'Images/bundle20200106145947.jpg', 'Images/thumb_0_9783732575367.jpg', 'Images/thumb_0_9783733727307.jpg', 'Images/thumb_1_9783732582457.jpg', 'Images/thumb_1_9783733727338.jpg', 'Images/thumb_2_9783732567331.jpg', 'Images/thumb_2_9783733727970.jpg', 'image/be-logo.jpg', 'image/preview-logo.jpg', 'image/sinclair-zinne-logo.jpg', 'image1630.jpg', 'image1639.jpg', 'image1655.jpg', 'image1691.jpg', 'image1713.jpg', 'image8.jpg', 'image_rsrc1C.jpg', 'image_rsrc1P.jpg', 'image_rsrc1Y.jpg', 'image_rsrc26.jpg', 'image_rsrc2E.jpg', 'image_rsrc50R.jpg', 'image_rsrc522.jpg', 'image_rsrc537.jpg', 'image_rsrc59K.jpg', 'image_rsrc5B6.jpg', 'image_rsrc5CB.jpg', 'imgs/be-logo.jpg', 'imgs/bundle20180711113823.jpg', 'imgs/lks-img.jpg', 'imgs/lks-logo-33.jpg', 'imgs/maddrax_logo.jpg', 'imgs/mx-300-rueckblick-logo.jpg', 'imgs/mx-kapitel-1-10.jpg', 'imgs/mx-kapitel-2-10.jpg', 'imgs/mx-kapitel-3-10.jpg', 'imgs/mx-zeittafel.jpg', 'imgs/special-6-img-1.jpg', 'imgs/special-6-img-2.jpg', 'imgs/special-6-img-3.jpg', 'imgs/special-6-img-4.jpg', 'imgs/thumb_0_9783733739980.jpg', 'imgs/thumb_0_9783838712826.jpg', 'imgs/thumb_1_9783733738662.jpg', 'imgs/thumb_1_9783838713687.jpg', 'imgs/thumb_2_9783733737887.jpg', 'imgs/thumb_2_9783838713670.jpg']
+    - width: ['10%', '100%', '33%', '50%', '60%', '75%', '80%']
+  Specific 'rend' values found: ['img', 'img class1631-0', 'img class1640-1', 'img class1656', 'img class9', 'img class_s1d', 'img class_s50s', 'img class_s59m']
+  Found in inferred types: ['chapter', 'cover', 'feedback', 'novel', 'preview', 'reading-sample', 'toc', 'unkown']
+  Found in true types: ['advertisement-intern', 'community_other']
+
+Tag: <head>
+  Attributes:
+    - level: ['2']
+    - style: ['font-size: 1.4em;font-weight: bold;font-family: SansSerif, sans-serif;line-height: 1.3em;margin-top: 1em;margin-bottom: 1.5em;']
+  Specific CSS 'style' properties found: ['font-family', 'font-size', 'font-weight', 'line-height', 'margin-bottom', 'margin-top']
+  Found in inferred types: ['feedback', 'imprint', 'reading-sample', 'toc', 'unkown']
+  Found in true types: ['advertisement-intern', 'community_other']
+
+Tag: <hi>
+  Attributes:
+    - rend: ['Bold', 'bigbold', 'bold', 'bold-italic', 'char-style-override-1', 'class-0', 'class1752', 'class1753', 'class1754', 'class1757', 'class_s1', 'class_s10', 'class_s2', 'class_s3', 'class_s5ew', 'class_s5ew1', 'class_s5ey', 'class_s5ez', 'class_s5f', 'class_s5f1', 'class_s7', 'class_s8', 'italic', 'sup']
+    - style: ['font-size: 0.75em;', 'font-size: 0.83333em;', 'font-size: 0.91em;font-weight: 800;', 'font-size: 0.9em;font-weight: 800;', 'font-size: 1.2em;font-weight: 800;', 'font-size: 1.3em;font-weight: 800;', 'font-size:1.3em;', 'font-size:70%', 'font-size:70%;', 'font-size:80%;', 'font-style: italic;text-indent: 4.994%;', 'font-weight: 800;', 'font-weight: 800;line-height: 1.2;', 'font-weight: bold;font-size: 1.2em;', 'font-weight: bold;font-style: italic;', 'text-indent: 4.994%;']
+  Specific 'rend' values found: ['Bold', 'bigbold', 'bold', 'bold-italic', 'char-style-override-1', 'class-0', 'class1752', 'class1753', 'class1754', 'class1757', 'class_s1', 'class_s10', 'class_s2', 'class_s3', 'class_s5ew', 'class_s5ew1', 'class_s5ey', 'class_s5ez', 'class_s5f', 'class_s5f1', 'class_s7', 'class_s8', 'italic', 'sup']
+  Specific CSS 'style' properties found: ['font-size', 'font-style', 'font-weight', 'line-height', 'text-indent']
+  Found in inferred types: ['chapter', 'endnotes', 'imprint', 'novel', 'prelude', 'preview', 'reading-sample', 'toc', 'unkown']
+  Found in true types: ['advertisement-intern', 'community_other', 'intro', 'toc']
+
+Tag: <item>
+  Found in inferred types: ['toc']
+
+Tag: <lb>
+  Found in inferred types: ['imprint', 'reading-sample', 'toc', 'unkown']
+  Found in true types: ['advertisement-intern', 'community_other', 'toc']
+
+Tag: <list>
+  Attributes:
+    - type: ['ordered']
+  Found in inferred types: ['toc']
+
+Tag: <p>
+  Attributes:
+    - rend: ['author margin', 'center', 'center bold margin-b', 'center margin-t', 'copyright', 'copyright margin', 'copyright margin-t', 'cover', 'coverFloat', 'creator', 'footnote-text', 'img-caption center', 'indent', 'leseprobe', 'noindent', 'noindent  bold', 'noindent  margin-t', 'noindent bold', 'noindent bold margin-t', 'noindent center bold', 'noindent margin-t', 'preview-author bold', 'preview-title', 'publisher', 'separator', 'title', 'title margin', 'title margin-b']
+    - style: ['font-size: 1em;widows: 2;orphans: 2;margin: 0;font-weight: bold;text-indent: 0;', 'font-size: 1em;widows: 2;orphans: 2;margin: 0;font-weight: bold;text-indent: 0;text-align: center;', 'font-size: 1em;widows: 2;orphans: 2;margin: 0;margin-bottom: 1em;font-weight: bold;text-align: center;', 'font-size: 1em;widows: 2;orphans: 2;margin: 0;margin-top: 1em;font-weight: bold;text-indent: 0;', 'font-size: 1em;widows: 2;orphans: 2;margin: 0;margin-top: 1em;text-align: center;', 'font-size: 1em;widows: 2;orphans: 2;margin: 0;margin-top: 1em;text-indent: 0;', 'font-size: 1em;widows: 2;orphans: 2;margin: 0;text-align: center;', 'font-size: 1em;widows: 2;orphans: 2;margin: 0;text-indent: 0;', 'font-size: 1em;widows: 2;orphans: 2;margin: 0;text-indent: 0;text-align: left;padding-left: 2em;clear: left;', 'font-size: 1em;widows: 2;orphans: 2;margin: 0;text-indent: 1.6em;', 'font-size: 75%;padding: 20px 0;margin: 0;text-align: justify;', 'font-size: 80%;margin: 0;padding: 0 0 0 20px;vertical-align: bottom;text-align: left;', 'font-size: 80%;margin: 0;padding: 0 0 0 20px;vertical-align: bottom;text-align: right;', 'font-size: 85%;padding: 20px 20px 0 0;margin-right: 20px;', 'margin-bottom:0px', 'margin: 0;padding: 0;line-height: normal;font-family: sans-serif;font-size: 200%;font-style: italic;margin-bottom: 1em;', 'margin: 0;padding: 0;line-height: normal;font-family: sans-serif;font-style: italic;font-size: 150%;margin-bottom: 2%;', 'margin: 0;padding: 0;text-indent: 0;font-size: 100%;text-decoration: none;border: none;text-align: center;', 'widows: 2;orphans: 2;margin: 0;font-size: 0.9em;text-indent: 0;text-align: center;', 'widows: 2;orphans: 2;margin: 0;font-size: 1.1em;text-align: center;margin-top: 1em;margin-bottom: 1em;', 'widows: 2;orphans: 2;margin: 0;font-size: 1.2em;font-family: SansSerif, sans-serif;font-weight: normal;margin-top: 0;text-indent: 0;text-align: center;', 'widows: 2;orphans: 2;margin: 0;font-size: 1.2em;font-weight: normal;margin-top: 0;text-indent: 0;text-align: center;', 'widows: 2;orphans: 2;margin: 0;font-size: 2.0em;font-weight: bold;margin-top: 0.75em;margin-bottom: 0.75em;line-height: 1em;text-indent: 0;text-align: center;', 'widows: 2;orphans: 2;margin: 0;font-size: 2em;text-indent: 0;text-align: center;font-weight: bold;font-style: normal;margin-top: 1.5em;margin-bottom: 1.5em;', 'widows: 2;orphans: 2;margin: 0;font-size: 2em;text-indent: 0;text-align: center;font-weight: bold;margin-top: 1.5em;margin-bottom: 0.5em;', 'widows: 2;orphans: 2;margin: 0;font-size: 2em;text-indent: 0;text-align: center;font-weight: bold;margin-top: 1em;margin-bottom: 1em;', 'widows: 2;orphans: 2;margin: 0;font-weight: bold;font-size: 1.2em;text-indent: 0;text-align: center;', 'widows: 2;orphans: 2;margin: 0;margin-bottom: 1em;font-size: 1.2em;margin-top: 0.5;font-weight: bold;text-indent: 0;text-align: center;', 'widows: 2;orphans: 2;margin: 0;margin-bottom: 1em;font-size: 2.0em;font-weight: bold;margin-top: 0.75em;line-height: 1em;text-indent: 0;text-align: center;', 'widows: 2;orphans: 2;margin: 0;margin-bottom: 1em;font-size: 2.0em;margin-top: 0.75em;font-weight: bold;line-height: 1em;color: #cc0033;text-indent: 0;text-align: center;', 'widows: 2;orphans: 2;margin: 0;margin-top: 1em;font-size: 0.9em;text-indent: 0;text-align: center;', 'widows: 2;orphans: 2;margin: 0;margin-top: 1em;margin-bottom: 1em;font-size: 0.9em;text-indent: 0;text-align: center;', 'width: 40%;max-width: 40%;max-height: 250px;padding: 0 10px 0 0;margin: 0;display: inline-block;', 'width: 40%;padding: 0 10px 0 0;margin: 0;display: inline-block;']
+  Specific 'rend' values found: ['author margin', 'center', 'center bold margin-b', 'center margin-t', 'copyright', 'copyright margin', 'copyright margin-t', 'cover', 'coverFloat', 'creator', 'footnote-text', 'img-caption center', 'indent', 'leseprobe', 'noindent', 'noindent  bold', 'noindent  margin-t', 'noindent bold', 'noindent bold margin-t', 'noindent center bold', 'noindent margin-t', 'preview-author bold', 'preview-title', 'publisher', 'separator', 'title', 'title margin', 'title margin-b']
+  Specific CSS 'style' properties found: ['border', 'clear', 'color', 'display', 'font-family', 'font-size', 'font-style', 'font-weight', 'line-height', 'margin', 'margin-bottom', 'margin-right', 'margin-top', 'max-height', 'max-width', 'orphans', 'padding', 'padding-left', 'text-align', 'text-decoration', 'text-indent', 'vertical-align', 'widows', 'width']
+  Found in inferred types: ['chapter', 'cover', 'endnotes', 'feedback', 'imprint', 'novel', 'prelude', 'preview', 'reading-sample', 'toc', 'unkown']
+  Found in true types: ['advertisement-intern', 'community_other', 'intro', 'title', 'toc']
+
+Tag: <row>
+  Attributes:
+    - rend: ['calibre4']
+    - style: ['display: table-row;vertical-align: inherit;']
+  Specific 'rend' values found: ['calibre4']
+  Specific CSS 'style' properties found: ['display', 'vertical-align']
+  Found in inferred types: ['reading-sample', 'unkown']
+  Found in true types: ['advertisement-intern']
+
+Tag: <table>
+  Attributes:
+    - rend: ['class1671', 'class_s4', 'class_s5a1']
+    - style: ['border-bottom-color: gray;border-collapse: separate;border-left-color: gray;border-right-color: gray;border-spacing: 2px;border-top-color: gray;display: table;margin-bottom: 0;margin-right: auto;margin-top: 0;max-width: 100%;text-indent: 0;', 'border-color: gray;border-spacing: 0.9pt 0.9pt;max-width: 100%;']
+  Specific 'rend' values found: ['class1671', 'class_s4', 'class_s5a1']
+  Specific CSS 'style' properties found: ['border-bottom-color', 'border-collapse', 'border-color', 'border-left-color', 'border-right-color', 'border-spacing', 'border-top-color', 'display', 'margin-bottom', 'margin-right', 'margin-top', 'max-width', 'text-indent']
+  Found in inferred types: ['reading-sample', 'unkown']
+  Found in true types: ['advertisement-intern']
+
+--- Global Summaries (for quick reference) ---
+
+1. Unique HTML Tags (Global):
+  - <cell>
+  - <div>
+  - <graphic>
+  - <head>
+  - <hi>
+  - <item>
+  - <lb>
+  - <list>
+  - <p>
+  - <row>
+  - <table>
+
+2. Unique HTML Attributes (Global):
+  - level
+  - mimetype
+  - rend
+  - style
+  - type
+  - url
+  - width
+
+3. Unique 'rend' Attribute Values (Global):
+  - Bold
+  - author margin
+  - bigbold
+  - bold
+  - bold-italic
+  - calibre4
+  - center
+  - center bold margin-b
+  - center margin-t
+  - char-style-override-1
+  - class-0
+  - class1661
+  - class1667
+  - class1671
+  - class1752
+  - class1753
+  - class1754
+  - class1757
+  - class_s1
+  - class_s10
+  - class_s2
+  - class_s3
+  - class_s4
+  - class_s5
+  - class_s50w
+  - class_s59s
+  - class_s5a1
+  - class_s5a2
+  - class_s5ew
+  - class_s5ew1
+  - class_s5ey
+  - class_s5ez
+  - class_s5f
+  - class_s5f1
+  - class_s7
+  - class_s8
+  - copyright
+  - copyright margin
+  - copyright margin-t
+  - cover
+  - coverFloat
+  - creator
+  - font-size: 1.4em;font-weight: bold;font-family: SansSerif, sans-serif;line-height: 1.3em;margin-top: 1em;margin-bottom: 1.5em;text-align: center;
+  - font-size: 1.4em;font-weight: bold;line-height: 1.3em;margin-top: 1em;margin-bottom: 1.5em;text-align: center;
+  - font-size: 1.6em;font-weight: bold;font-family: SansSerif, sans-serif;line-height: 1.3em;margin-top: 1em;margin-bottom: 2.0em;
+  - font-size: 1.6em;font-weight: bold;line-height: 1.3em;margin-top: 1em;margin-bottom: 2.0em;
+  - font-size: 120%;
+  - font-size: 160% !important;
+  - footnote-text
+  - img
+  - img class1631-0
+  - img class1640-1
+  - img class1656
+  - img class9
+  - img class_s1d
+  - img class_s50s
+  - img class_s59m
+  - img-caption center
+  - indent
+  - italic
+  - leseprobe
+  - noindent
+  - noindent  bold
+  - noindent  margin-t
+  - noindent bold
+  - noindent bold margin-t
+  - noindent center bold
+  - noindent margin-t
+  - preview-author bold
+  - preview-title
+  - publisher
+  - separator
+  - sup
+  - title
+  - title margin
+  - title margin-b
+
+4. Unique CSS Style Properties (from 'style' attribute, Global):
+  - border
+  - border-bottom-color
+  - border-collapse
+  - border-color
+  - border-left-color
+  - border-right-color
+  - border-spacing
+  - border-top-color
+  - clear
+  - color
+  - display
+  - font-family
+  - font-size
+  - font-style
+  - font-weight
+  - line-height
+  - margin
+  - margin-bottom
+  - margin-right
+  - margin-top
+  - max-height
+  - max-width
+  - orphans
+  - padding
+  - padding-left
+  - padding-top
+  - text-align
+  - text-decoration
+  - text-indent
+  - vertical-align
+  - widows
+  - width
+
+5. Unique Inferred Types (Global):
+  - chapter
+  - cover
+  - endnotes
+  - feedback
+  - imprint
+  - novel
+  - prelude
+  - preview
+  - reading-sample
+  - toc
+  - unkown
+-cast-list
+
+6. Unique True Types (Global):
+  - advertisement-intern
+  - community_other
+  - intro
+  - title
+  - toc
+- cover
+- author
+- title, foreword, novel
+- novel
+-cover, intro, novel
+-imprint
+-Feedback
+-"title, summary"
+-graphic
+
+7. Unique is_narrative ()
+-true
+-false
+
+9. Unique EPUB Metadata Keys (Global):
+  - contributor
+  - creator
+  - date
+  - identifier: id, "{http://www.idpf.org/2007/opf}scheme": "ISBN"
+  - language
+  - publisher
+  - rights
+  - title
+
+10. Unique Processing Log Keys (Global):
+  - component_log: Name, timestamp, added_fields, description
+  - contain_subsections
+  - inferred-type
+  - is_collection
+  - processing_log.is_collection
+  - sanity_check:passed, len_extracted,len_calibre
+  - toc_repair
+
+
+11. Content (comment: classifications are not Always part of the Content parts)
+
+            "type": "EpubHtml",
+            "href": "readbox_add_20181214091056_3_2318.html",
+            "href_clean": "readbox_add_20181214091056_3_2318.html",
+            "found_via_href_clean": false,
+            "title": "Cover",
+            "html_title": null,
+            "body_titles": null,
+            "images": [
+                "Images/9783732562299.jpg"
+            ],
+            "inferred-type": "cover",
+            "true-type": "title", 
+            "is_narrative": false,
+            "text:
+
+12. Top Level
+- title: "Lassiter Sammelband 1793 - Western",
+- source: "heftromane/Slade_Lassiter-Sammelband-1793---Wes_9783732562299.epub",
