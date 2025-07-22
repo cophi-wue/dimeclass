@@ -5,6 +5,8 @@ This project aims to convert epub files of German dime novels into TEI XML forma
 The conversion step involves defining a custom TEI schema (ODD) and developing a Python-based conversion script. 
 The basis input files for the converison is the [epub_unpack project by LennartKeller](https://github.com/LennartKeller/epub_unpack.git), which converts epub into JSON files (and performs rule-based classifications).
 
+See the TEI Mapping [documentation](conversion/docs/tei_schema_mapping.md) for the current JSON to TEI mapping approach.
+
 ## Documentation: Goals
 
 - [x] Define a TEI schema (ODD) for the JSON data (with Roma).
