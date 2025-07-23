@@ -40,7 +40,13 @@ def generate_metadata_csv(directory_path="~/code/repos/dimeclass/Heftromane/sour
 
     for original_filename in epub_files:
         # Generate a unique 6-digit ID
-        epub_id = f"{current_id_number:06d}"
+        numerical_id = f"{current_id_number:06d}"
+        # Get filename without .epub extension and replace spaces with underscores
+        filename_without_ext = os.path.splitext(original_filename)[0]
+        underscored_filename = filename_without_ext.replace(" ", "_")
+
+        # Combine numerical ID and underscored filename for the new epub_ID
+        epub_id = f"{numerical_id}_{underscored_filename}"
 
         # Add row to metadata
         metadata_rows.append([original_filename, epub_id])
