@@ -1,0 +1,31 @@
+==================================================
+FINAL COLLECTED SAMPLE AUDIT (LOCAL)
+==================================================
+Generated on: 2026-05-11
+Source: Actually collected folders in sample_jsons_only/
+
+TOTAL COUNTS:
+Total Books Extracted on HPC: 35068
+Final Books in Sample:        336
+Real Sampling Rate:           0.96%
+
+STRATIFICATION OF ACTUAL COLLECTED DATA:
+------------------------------
+By Publisher Tier:
+A    224  (66.67%)
+B     65  (19.35%)
+C     47  (13.99%)
+
+By Book Type:
+Standalone    285  (84.82%)
+Series         51  (15.18%)
+
+By Sampling Strategy:
+Random (Standalone)         285  (84.82%)
+Temporal (Large Series)      29  (8.63%)
+Random (Small Series)        17  (5.06%)
+Temporal (Medium Series)      5  (1.49%)
+
+Note: 18 books from the original 354-book plan were not found 
+in the extraction output and were excluded from this audit.
+==================================================
