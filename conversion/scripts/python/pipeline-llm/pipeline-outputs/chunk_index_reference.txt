@@ -1,0 +1,425 @@
+--- CHUNK INDEX REFERENZ ---
+Erstellt am: wlpd111.lpd.uni-wuerzburg.de
+Gesamtanzahl Chunks: 288
+
+Index   | Chunk ID                                                          | Strategy
+------------------------------------------------------------------------------------------
+
+>>> DATEI: 000796_Seeberg_Fuersten-Roman-2631_9783751711548 (Startet bei Index 0)
+------------------------------------------------------------------------------------------
+0       | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_01               | non-chapter
+1       | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_02               | non-chapter
+
+--- Ende von: 000796_Seeberg_Fuersten-Roman-2631_9783751711548 (Index 0 bis 1) ---
+
+
+>>> DATEI: 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03 (Startet bei Index 2)
+------------------------------------------------------------------------------------------
+2       | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part01        | implicit_chapter_jpg
+3       | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part02        | implicit_chapter_jpg
+4       | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part03        | implicit_chapter_jpg
+5       | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part04        | implicit_chapter_jpg
+6       | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part05        | implicit_chapter_jpg
+7       | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part06        | implicit_chapter_jpg
+8       | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part07        | implicit_chapter_jpg
+9       | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part08        | implicit_chapter_jpg
+10      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part09        | implicit_chapter_jpg
+11      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part10        | implicit_chapter_jpg
+12      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part11        | implicit_chapter_jpg
+13      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part12        | implicit_chapter_jpg
+14      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part13        | implicit_chapter_jpg
+15      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part14        | implicit_chapter_jpg
+16      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part15        | implicit_chapter_jpg
+17      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part16        | implicit_chapter_jpg
+18      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part17        | implicit_chapter_jpg
+19      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part18        | implicit_chapter_jpg
+20      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part19        | implicit_chapter_jpg
+21      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part20        | implicit_chapter_jpg
+22      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part21        | implicit_chapter_jpg
+23      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part22        | implicit_chapter_jpg
+24      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part23        | implicit_chapter_jpg
+25      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part24        | implicit_chapter_jpg
+26      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part25        | implicit_chapter_jpg
+27      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part26        | implicit_chapter_jpg
+28      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part27        | implicit_chapter_jpg
+29      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part28        | implicit_chapter_jpg
+30      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part29        | implicit_chapter_jpg
+31      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part30        | implicit_chapter_jpg
+32      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part31        | implicit_chapter_jpg
+33      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part32        | implicit_chapter_jpg
+34      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part33        | implicit_chapter_jpg
+35      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part34        | implicit_chapter_jpg
+36      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03_part35        | implicit_chapter_jpg
+
+--- Ende von: 000796_Seeberg_Fuersten-Roman-2631_9783751711548_03 (Index 2 bis 36) ---
+
+
+>>> DATEI: 000796_Seeberg_Fuersten-Roman-2631_9783751711548 (Startet bei Index 37)
+------------------------------------------------------------------------------------------
+37      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_04               | non-chapter
+38      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_05               | non-chapter
+39      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_06               | non-chapter
+40      | 000796_Seeberg_Fuersten-Roman-2631_9783751711548_07               | non-chapter
+
+--- Ende von: 000796_Seeberg_Fuersten-Roman-2631_9783751711548 (Index 37 bis 40) ---
+
+
+>>> DATEI: 000837_Stern_Maddrax-347_9783838733357 (Startet bei Index 41)
+------------------------------------------------------------------------------------------
+41      | 000837_Stern_Maddrax-347_9783838733357_02                         | non-chapter
+42      | 000837_Stern_Maddrax-347_9783838733357_03                         | non-chapter
+43      | 000837_Stern_Maddrax-347_9783838733357_04                         | non-chapter
+44      | 000837_Stern_Maddrax-347_9783838733357_05                         | non-chapter
+
+--- Ende von: 000837_Stern_Maddrax-347_9783838733357 (Index 41 bis 44) ---
+
+
+>>> DATEI: 000837_Stern_Maddrax-347_9783838733357_06 (Startet bei Index 45)
+------------------------------------------------------------------------------------------
+45      | 000837_Stern_Maddrax-347_9783838733357_06_part01                  | implicit_chapter_jpg
+46      | 000837_Stern_Maddrax-347_9783838733357_06_part02                  | implicit_chapter_jpg
+47      | 000837_Stern_Maddrax-347_9783838733357_06_part03                  | implicit_chapter_jpg
+48      | 000837_Stern_Maddrax-347_9783838733357_06_part04                  | implicit_chapter_jpg
+49      | 000837_Stern_Maddrax-347_9783838733357_06_part05                  | implicit_chapter_jpg
+50      | 000837_Stern_Maddrax-347_9783838733357_06_part06                  | implicit_chapter_jpg
+51      | 000837_Stern_Maddrax-347_9783838733357_06_part07                  | implicit_chapter_jpg
+52      | 000837_Stern_Maddrax-347_9783838733357_06_part08                  | implicit_chapter_jpg
+53      | 000837_Stern_Maddrax-347_9783838733357_06_part09                  | implicit_chapter_jpg
+54      | 000837_Stern_Maddrax-347_9783838733357_06_part10                  | implicit_chapter_jpg
+55      | 000837_Stern_Maddrax-347_9783838733357_06_part11                  | implicit_chapter_jpg
+56      | 000837_Stern_Maddrax-347_9783838733357_06_part12                  | implicit_chapter_jpg
+57      | 000837_Stern_Maddrax-347_9783838733357_06_part13                  | implicit_chapter_jpg
+58      | 000837_Stern_Maddrax-347_9783838733357_06_part14                  | implicit_chapter_jpg
+59      | 000837_Stern_Maddrax-347_9783838733357_06_part15                  | implicit_chapter_jpg
+60      | 000837_Stern_Maddrax-347_9783838733357_06_part16                  | implicit_chapter_jpg
+61      | 000837_Stern_Maddrax-347_9783838733357_06_part17                  | implicit_chapter_jpg
+62      | 000837_Stern_Maddrax-347_9783838733357_06_part18                  | implicit_chapter_jpg
+63      | 000837_Stern_Maddrax-347_9783838733357_06_part19                  | implicit_chapter_jpg
+64      | 000837_Stern_Maddrax-347_9783838733357_06_part20                  | implicit_chapter_jpg
+65      | 000837_Stern_Maddrax-347_9783838733357_06_part21                  | implicit_chapter_jpg
+66      | 000837_Stern_Maddrax-347_9783838733357_06_part22                  | implicit_chapter_jpg
+67      | 000837_Stern_Maddrax-347_9783838733357_06_part23                  | implicit_chapter_jpg
+68      | 000837_Stern_Maddrax-347_9783838733357_06_part24                  | implicit_chapter_jpg
+69      | 000837_Stern_Maddrax-347_9783838733357_06_part25                  | implicit_chapter_jpg
+70      | 000837_Stern_Maddrax-347_9783838733357_06_part26                  | implicit_chapter_jpg
+71      | 000837_Stern_Maddrax-347_9783838733357_06_part27                  | implicit_chapter_jpg
+72      | 000837_Stern_Maddrax-347_9783838733357_06_part28                  | implicit_chapter_jpg
+73      | 000837_Stern_Maddrax-347_9783838733357_06_part29                  | implicit_chapter_jpg
+74      | 000837_Stern_Maddrax-347_9783838733357_06_part30                  | implicit_chapter_jpg
+75      | 000837_Stern_Maddrax-347_9783838733357_06_part31                  | implicit_chapter_jpg
+76      | 000837_Stern_Maddrax-347_9783838733357_06_part32                  | implicit_chapter_jpg
+77      | 000837_Stern_Maddrax-347_9783838733357_06_part33                  | implicit_chapter_jpg
+78      | 000837_Stern_Maddrax-347_9783838733357_06_part34                  | implicit_chapter_jpg
+79      | 000837_Stern_Maddrax-347_9783838733357_06_part35                  | implicit_chapter_jpg
+
+--- Ende von: 000837_Stern_Maddrax-347_9783838733357_06 (Index 45 bis 79) ---
+
+
+>>> DATEI: 000837_Stern_Maddrax-347_9783838733357 (Startet bei Index 80)
+------------------------------------------------------------------------------------------
+80      | 000837_Stern_Maddrax-347_9783838733357_07                         | non-chapter
+81      | 000837_Stern_Maddrax-347_9783838733357_08                         | non-chapter
+82      | 000837_Stern_Maddrax-347_9783838733357_09                         | non-chapter
+83      | 000837_Stern_Maddrax-347_9783838733357_10                         | non-chapter
+84      | 000837_Stern_Maddrax-347_9783838733357_11                         | non-chapter
+85      | 000837_Stern_Maddrax-347_9783838733357_12                         | non-chapter
+
+--- Ende von: 000837_Stern_Maddrax-347_9783838733357 (Index 80 bis 85) ---
+
+
+>>> DATEI: 000533_Kufsteiner_Das-Berghotel-112_9783732528110 (Startet bei Index 86)
+------------------------------------------------------------------------------------------
+86      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_02              | non-chapter
+87      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_03              | non-chapter
+88      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_04              | non-chapter
+
+--- Ende von: 000533_Kufsteiner_Das-Berghotel-112_9783732528110 (Index 86 bis 88) ---
+
+
+>>> DATEI: 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05 (Startet bei Index 89)
+------------------------------------------------------------------------------------------
+89      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part01       | implicit_chapter_stars
+90      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part02       | implicit_chapter_stars
+91      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part03       | implicit_chapter_stars
+92      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part04       | implicit_chapter_stars
+93      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part05       | implicit_chapter_stars
+94      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part06       | implicit_chapter_stars
+95      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part07       | implicit_chapter_stars
+96      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part08       | implicit_chapter_stars
+97      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part09       | implicit_chapter_stars
+98      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part10       | implicit_chapter_stars
+99      | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part11       | implicit_chapter_stars
+100     | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part12       | implicit_chapter_stars
+101     | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part13       | implicit_chapter_stars
+102     | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part14       | implicit_chapter_stars
+103     | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part15       | implicit_chapter_stars
+104     | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part16       | implicit_chapter_stars
+105     | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part17       | implicit_chapter_stars
+106     | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part18       | implicit_chapter_stars
+107     | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05_part19       | implicit_chapter_stars
+
+--- Ende von: 000533_Kufsteiner_Das-Berghotel-112_9783732528110_05 (Index 89 bis 107) ---
+
+
+>>> DATEI: 000533_Kufsteiner_Das-Berghotel-112_9783732528110 (Startet bei Index 108)
+------------------------------------------------------------------------------------------
+108     | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_06              | non-chapter
+109     | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_07              | non-chapter
+110     | 000533_Kufsteiner_Das-Berghotel-112_9783732528110_08              | non-chapter
+
+--- Ende von: 000533_Kufsteiner_Das-Berghotel-112_9783732528110 (Index 108 bis 110) ---
+
+
+>>> DATEI: 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau (Startet bei Index 111)
+------------------------------------------------------------------------------------------
+111     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_01 | non-chapter
+112     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_02 | non-chapter
+113     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_03 | non-chapter
+114     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_04 | non-chapter
+
+--- Ende von: 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau (Index 111 bis 114) ---
+
+
+>>> DATEI: 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05 (Startet bei Index 115)
+------------------------------------------------------------------------------------------
+115     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_01 | non-chapter
+116     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_02 | explicit_chapter
+117     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_03 | explicit_chapter
+118     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_04 | explicit_chapter
+119     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_05 | explicit_chapter
+120     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_06 | explicit_chapter
+121     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_07 | explicit_chapter
+122     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_08 | explicit_chapter
+123     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_09 | explicit_chapter
+124     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_10 | explicit_chapter
+125     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_11 | explicit_chapter
+126     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_12 | explicit_chapter
+127     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_13 | explicit_chapter
+128     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_14 | explicit_chapter
+129     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_15 | explicit_chapter
+130     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05_16 | non-chapter
+
+--- Ende von: 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_05 (Index 115 bis 130) ---
+
+
+>>> DATEI: 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06 (Startet bei Index 131)
+------------------------------------------------------------------------------------------
+131     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06_01 | non-chapter
+132     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06_02 | explicit_chapter
+133     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06_03 | explicit_chapter
+134     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06_04 | explicit_chapter
+135     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06_05 | explicit_chapter
+136     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06_06 | explicit_chapter
+137     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06_07 | explicit_chapter
+138     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06_08 | explicit_chapter
+139     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06_09 | explicit_chapter
+140     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06_10 | explicit_chapter
+141     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06_11 | explicit_chapter
+142     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06_12 | explicit_chapter
+
+--- Ende von: 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_06 (Index 131 bis 142) ---
+
+
+>>> DATEI: 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07 (Startet bei Index 143)
+------------------------------------------------------------------------------------------
+143     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_01 | non-chapter
+144     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_02 | explicit_chapter
+145     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_03 | explicit_chapter
+146     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_04 | explicit_chapter
+147     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_05 | explicit_chapter
+148     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_06 | explicit_chapter
+149     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_07 | explicit_chapter
+150     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_08 | explicit_chapter
+151     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_09 | explicit_chapter
+152     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_10 | explicit_chapter
+153     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_11 | explicit_chapter
+154     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_12 | explicit_chapter
+155     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_13 | explicit_chapter
+156     | 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07_14 | non-chapter
+
+--- Ende von: 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau_07 (Index 143 bis 156) ---
+
+
+>>> DATEI: 000871_Vlcek_Das-Haus-Zamis-3_9783751705271 (Startet bei Index 157)
+------------------------------------------------------------------------------------------
+157     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_01                    | non-chapter
+158     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_02                    | non-chapter
+159     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_03                    | non-chapter
+160     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_04                    | non-chapter
+161     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_05                    | non-chapter
+162     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_06                    | explicit_chapter
+163     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_07                    | explicit_chapter
+164     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_08                    | explicit_chapter
+165     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_09                    | explicit_chapter
+166     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_10                    | explicit_chapter
+167     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_11                    | non-chapter
+168     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_12                    | non-chapter
+169     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_13                    | non-chapter
+170     | 000871_Vlcek_Das-Haus-Zamis-3_9783751705271_14                    | non-chapter
+
+--- Ende von: 000871_Vlcek_Das-Haus-Zamis-3_9783751705271 (Index 157 bis 170) ---
+
+
+>>> DATEI: 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987 (Startet bei Index 171)
+------------------------------------------------------------------------------------------
+171     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_01      | non-chapter
+172     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_02      | non-chapter
+173     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_03      | non-chapter
+174     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_04      | non-chapter
+175     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_05      | non-chapter
+176     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_06      | explicit_chapter
+177     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_07      | explicit_chapter
+178     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_08      | explicit_chapter
+179     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_09      | explicit_chapter
+180     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_10      | explicit_chapter
+181     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_11      | non-chapter
+182     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_12      | non-chapter
+183     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_13      | non-chapter
+184     | 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987_14      | non-chapter
+
+--- Ende von: 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987 (Index 171 bis 184) ---
+
+
+>>> DATEI: G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition) (Startet bei Index 185)
+------------------------------------------------------------------------------------------
+185     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_01 | non-chapter
+186     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_02 | non-chapter
+187     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_03 | non-chapter
+188     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_04 | non-chapter
+189     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_05 | explicit_chapter
+190     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_06 | explicit_chapter
+191     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_07 | explicit_chapter
+192     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_08 | explicit_chapter
+193     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_09 | explicit_chapter
+194     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_10 | explicit_chapter
+195     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_11 | explicit_chapter
+196     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_12 | explicit_chapter
+197     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_13 | explicit_chapter
+198     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_14 | explicit_chapter
+199     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_15 | explicit_chapter
+200     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_16 | explicit_chapter
+201     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_17 | explicit_chapter
+202     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_18 | non-chapter
+203     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_19 | non-chapter
+204     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_20 | non-chapter
+205     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_21 | non-chapter
+206     | G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition)_22 | non-chapter
+
+--- Ende von: G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition) (Index 185 bis 206) ---
+
+
+>>> DATEI: 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry (Startet bei Index 207)
+------------------------------------------------------------------------------------------
+207     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_01         | non-chapter
+208     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_02         | non-chapter
+209     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_03         | non-chapter
+210     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_04         | non-chapter
+
+--- Ende von: 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry (Index 207 bis 210) ---
+
+
+>>> DATEI: 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05 (Startet bei Index 211)
+------------------------------------------------------------------------------------------
+211     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part01  | implicit_chapter_stars
+212     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part02  | implicit_chapter_stars
+213     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part03  | implicit_chapter_stars
+214     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part04  | implicit_chapter_stars
+215     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part05  | implicit_chapter_stars
+216     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part06  | implicit_chapter_stars
+217     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part07  | implicit_chapter_stars
+218     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part08  | implicit_chapter_stars
+219     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part09  | implicit_chapter_stars
+220     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part10  | implicit_chapter_stars
+221     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part11  | implicit_chapter_stars
+222     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part12  | implicit_chapter_stars
+223     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part13  | implicit_chapter_stars
+224     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part14  | implicit_chapter_stars
+225     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part15  | implicit_chapter_stars
+226     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part16  | implicit_chapter_stars
+227     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part17  | implicit_chapter_stars
+228     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part18  | implicit_chapter_stars
+229     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part19  | implicit_chapter_stars
+230     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part20  | implicit_chapter_stars
+231     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part21  | implicit_chapter_stars
+232     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part22  | implicit_chapter_stars
+233     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part23  | implicit_chapter_stars
+234     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part24  | implicit_chapter_stars
+235     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part25  | implicit_chapter_stars
+236     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part26  | implicit_chapter_stars
+237     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part27  | implicit_chapter_stars
+238     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part28  | implicit_chapter_stars
+239     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part29  | implicit_chapter_stars
+240     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part30  | implicit_chapter_stars
+241     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part31  | implicit_chapter_stars
+242     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part32  | implicit_chapter_stars
+243     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part33  | implicit_chapter_stars
+244     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part34  | implicit_chapter_stars
+245     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part35  | implicit_chapter_stars
+246     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part36  | implicit_chapter_stars
+247     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part37  | implicit_chapter_stars
+248     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part38  | implicit_chapter_stars
+249     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part39  | implicit_chapter_stars
+250     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part40  | implicit_chapter_stars
+251     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part41  | implicit_chapter_stars
+252     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part42  | implicit_chapter_stars
+253     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part43  | implicit_chapter_stars
+254     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05_part44  | implicit_chapter_stars
+
+--- Ende von: 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_05 (Index 211 bis 254) ---
+
+
+>>> DATEI: 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry (Startet bei Index 255)
+------------------------------------------------------------------------------------------
+255     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_06         | non-chapter
+256     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_07         | non-chapter
+257     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_08         | non-chapter
+258     | 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry_09         | explicit_chapter
+
+--- Ende von: 000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry (Index 255 bis 258) ---
+
+
+>>> DATEI: 000151_Fernthaler_Alpengold-265_9783732560165 (Startet bei Index 259)
+------------------------------------------------------------------------------------------
+259     | 000151_Fernthaler_Alpengold-265_9783732560165_02                  | non-chapter
+260     | 000151_Fernthaler_Alpengold-265_9783732560165_03                  | non-chapter
+261     | 000151_Fernthaler_Alpengold-265_9783732560165_04                  | non-chapter
+
+--- Ende von: 000151_Fernthaler_Alpengold-265_9783732560165 (Index 259 bis 261) ---
+
+
+>>> DATEI: 000151_Fernthaler_Alpengold-265_9783732560165_05 (Startet bei Index 262)
+------------------------------------------------------------------------------------------
+262     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part01           | implicit_chapter_stars
+263     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part02           | implicit_chapter_stars
+264     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part03           | implicit_chapter_stars
+265     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part04           | implicit_chapter_stars
+266     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part05           | implicit_chapter_stars
+267     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part06           | implicit_chapter_stars
+268     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part07           | implicit_chapter_stars
+269     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part08           | implicit_chapter_stars
+270     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part09           | implicit_chapter_stars
+271     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part10           | implicit_chapter_stars
+272     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part11           | implicit_chapter_stars
+273     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part12           | implicit_chapter_stars
+274     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part13           | implicit_chapter_stars
+275     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part14           | implicit_chapter_stars
+276     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part15           | implicit_chapter_stars
+277     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part16           | implicit_chapter_stars
+278     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part17           | implicit_chapter_stars
+279     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part18           | implicit_chapter_stars
+280     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part19           | implicit_chapter_stars
+281     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part20           | implicit_chapter_stars
+282     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part21           | implicit_chapter_stars
+283     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part22           | implicit_chapter_stars
+284     | 000151_Fernthaler_Alpengold-265_9783732560165_05_part23           | implicit_chapter_stars
+
+--- Ende von: 000151_Fernthaler_Alpengold-265_9783732560165_05 (Index 262 bis 284) ---
+
+
+>>> DATEI: 000151_Fernthaler_Alpengold-265_9783732560165 (Startet bei Index 285)
+------------------------------------------------------------------------------------------
+285     | 000151_Fernthaler_Alpengold-265_9783732560165_06                  | non-chapter
+286     | 000151_Fernthaler_Alpengold-265_9783732560165_07                  | non-chapter
+287     | 000151_Fernthaler_Alpengold-265_9783732560165_08                  | non-chapter
+
+--- Ende von: 000151_Fernthaler_Alpengold-265_9783732560165 (Index 285 bis 287) ---

@@ -1,0 +1,11 @@
+Label,precision,recall,f1-score,support
+author-information,1.0,1.0,1.0,1.0
+cover-image,1.0,1.0,1.0,8.0
+feedback,1.0,1.0,1.0,8.0
+imprint,1.0,1.0,1.0,18.0
+reader-information,1.0,1.0,1.0,55.0
+title-page,1.0,1.0,1.0,26.0
+toc,1.0,1.0,1.0,17.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,133.0
+weighted avg,1.0,1.0,1.0,133.0

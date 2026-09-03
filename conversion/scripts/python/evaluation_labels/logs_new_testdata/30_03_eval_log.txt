@@ -1,0 +1,62 @@
+[2026-03-30 18:11:16] Starting Evaluation/Labeling Run
+[2026-03-30 18:11:16] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/new_testdata/chunks_for_labeling for chunk data...
+[2026-03-30 18:11:16] Successfully indexed 198 chunks from 10 files.
+[2026-03-30 18:11:16] No Gold Standard found. Creating empty 'gold_label' column for all detected chunks.
+[2026-03-30 18:11:16] Base dataset initialized with 198 chunks.
+[2026-03-30 18:11:16] New results file initialized at /home/spielberg/code/repos/dimeclass/conversion/scripts/python/evaluation_labels/results_new_testdata/30_03_eval_results.tsv
+[2026-03-30 18:11:16] Processing mistralai/mistral-large-2512: 198 chunks remaining.
+[2026-03-30 18:15:01] Starting Evaluation/Labeling Run
+[2026-03-30 18:15:01] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/new_testdata/chunks_for_labeling for chunk data...
+[2026-03-30 18:15:01] Successfully indexed 198 chunks from 10 files.
+[2026-03-30 18:15:01] No Gold Standard found. Creating empty 'gold_label' column for all detected chunks.
+[2026-03-30 18:15:01] Base dataset initialized with 198 chunks.
+[2026-03-30 18:15:01] New results file initialized at /home/spielberg/code/repos/dimeclass/conversion/scripts/python/evaluation_labels/results_new_testdata/30_03_eval_results.tsv
+[2026-03-30 18:15:01] Processing mistralai/mistral-large-2512: 198 chunks remaining.
+[2026-03-30 18:16:26] Warning: Text not found in indexed files for ID 000941_Zybell_Maddrax-306_9783838713533.json_0_0
+[2026-03-30 18:18:13] Processing z-ai/glm-5: 198 chunks remaining.
+[2026-03-30 18:54:38] Warning: Text not found in indexed files for ID 000941_Zybell_Maddrax-306_9783838713533.json_0_0
+[2026-03-30 19:36:22] Processing deepseek/deepseek-v3.2-speciale: 198 chunks remaining.
+[2026-03-30 19:43:52] Error processing 000622_Kufsteiner_Der-Bergdoktor-1927_9783732565665.json_0_6 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-30 19:44:14] Error processing 000730_Perry_Rhodan-Paket_2__Atlan_und_-_Perry_Rhodan_Redaktion.json_53_4 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-30 19:45:56] Error processing 000730_Perry_Rhodan-Paket_2__Atlan_und_-_Perry_Rhodan_Redaktion.json_28_0 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-30 19:58:18] Starting Evaluation/Labeling Run
+[2026-03-30 19:58:18] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/new_testdata/chunks_for_labeling for chunk data...
+[2026-03-30 19:58:18] Successfully indexed 198 chunks from 10 files.
+[2026-03-30 19:58:18] No Gold Standard found. Creating empty 'gold_label' column for all detected chunks.
+[2026-03-30 19:58:18] Base dataset initialized with 198 chunks.
+[2026-03-30 19:58:18] Existing results file found. Resuming...
+[2026-03-30 19:58:18] Processing mistralai/mistral-large-2512: 1 chunks remaining.
+[2026-03-30 19:58:18] Warning: Text not found in indexed files for ID 000941_Zybell_Maddrax-306_9783838713533.json_0_0
+[2026-03-30 19:58:18] Processing z-ai/glm-5: 1 chunks remaining.
+[2026-03-30 19:58:18] Warning: Text not found in indexed files for ID 000941_Zybell_Maddrax-306_9783838713533.json_0_0
+[2026-03-30 19:58:18] Processing openai/gpt-oss-120b: 198 chunks remaining.
+[2026-03-30 20:00:36] Warning: Text not found in indexed files for ID 000941_Zybell_Maddrax-306_9783838713533.json_0_0
+[2026-03-30 20:03:18] Processing openai/gpt-oss-20b: 198 chunks remaining.
+[2026-03-30 20:08:00] Warning: Text not found in indexed files for ID 000941_Zybell_Maddrax-306_9783838713533.json_0_0
+[2026-03-30 20:15:11] Evaluation complete.
+[2026-03-30 20:43:49] Starting Evaluation/Labeling Run
+[2026-03-30 20:43:49] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/new_testdata/chunks_for_labeling for chunk data...
+[2026-03-30 20:43:49] Successfully indexed 198 chunks from 10 files.
+[2026-03-30 20:43:49] No Gold Standard found. Creating empty 'gold_label' column for all detected chunks.
+[2026-03-30 20:43:49] Base dataset initialized with 198 chunks.
+[2026-03-30 20:43:49] Existing results file found. Resuming...
+[2026-03-30 20:43:49] Processing deepseek/deepseek-v3.2-speciale: 148 chunks remaining.
+[2026-03-30 20:49:54] Error processing 000898_Wallner_Alpengold-165_9783838756103.json_0_7 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-30 20:57:54] Error processing 000898_Wallner_Alpengold-165_9783838756103.json_0_6 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-30 20:58:17] Error processing 000730_Perry_Rhodan-Paket_2__Atlan_und_-_Perry_Rhodan_Redaktion.json_12_0 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-30 20:59:02] Error processing 000730_Perry_Rhodan-Paket_2__Atlan_und_-_Perry_Rhodan_Redaktion.json_5_0 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-30 21:01:25] Warning: Text not found in indexed files for ID 000941_Zybell_Maddrax-306_9783838713533.json_0_0
+[2026-03-30 21:04:26] Error processing 000375_Jerry_Cotton_Sammelband_5_-_Krimi-Serie_-_Jerry_Cotton.json_9_1 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-30 21:26:56] Error processing 000294_JULIA_EXTRA_BAND_402_-_Michelle_Conder,_Connie_Cox,_Teresa_Southw.json_8_11 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-30 21:27:18] Error processing 000879_Vlcek_Dorian-Hunter-19---Horror-Seri_9783732580606.json_0_14 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-30 21:28:04] Error processing 000376_Jerry_Cotton_Sammelband_5_-_Krimi-Serie.json_8_4 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-30 21:38:28] Evaluation complete.
+[2026-03-30 22:07:00] Starting Evaluation/Labeling Run
+[2026-03-30 22:07:00] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/new_testdata/chunks_for_labeling for chunk data...
+[2026-03-30 22:07:00] Successfully indexed 198 chunks from 10 files.
+[2026-03-30 22:07:00] No Gold Standard found. Creating empty 'gold_label' column for all detected chunks.
+[2026-03-30 22:07:00] Base dataset initialized with 198 chunks.
+[2026-03-30 22:07:00] Existing results file found. Resuming...
+[2026-03-30 22:07:00] Processing deepseek/deepseek-v3.2-speciale: 9 chunks remaining.
+[2026-03-30 22:08:50] Warning: Text not found in indexed files for ID 000941_Zybell_Maddrax-306_9783838713533.json_0_0
+[2026-03-30 22:09:40] Evaluation complete.

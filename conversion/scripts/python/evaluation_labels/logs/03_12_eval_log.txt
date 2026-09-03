@@ -1,0 +1,10 @@
+[2026-03-12 13:45:54] Starting Evaluation Run
+[2026-03-12 13:45:54] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-12 13:45:54] Successfully indexed 200 chunks from 12 files.
+[2026-03-12 13:45:54] Loaded 200 chunks from Gold Standard.
+[2026-03-12 13:45:54] New results file initialized.
+[2026-03-12 13:45:54] Processing openai/gpt-oss-120b: 200 chunks remaining.
+[2026-03-12 14:17:40] Processing openai/gpt-oss-20b: 200 chunks remaining.
+[2026-03-12 14:25:45] Processing deepseek/deepseek-v3.2: 200 chunks remaining.
+[2026-03-12 14:37:01] Processing moonshotai/kimi-k2-0905: 200 chunks remaining.
+[2026-03-12 14:40:26] Evaluation complete.

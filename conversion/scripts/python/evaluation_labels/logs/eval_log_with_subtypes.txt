@@ -1,0 +1,35 @@
+[2026-03-09 19:25:58] Starting Evaluation Run
+[2026-03-09 19:25:58] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-09 19:25:58] Successfully indexed 200 chunks from 12 files.
+[2026-03-09 19:25:58] Loaded 200 chunks from Gold Standard.
+[2026-03-09 19:25:58] New results file initialized.
+[2026-03-09 19:25:58] Processing openai/gpt-oss-120b: 200 chunks remaining.
+[2026-03-09 20:10:54] Evaluation complete.
+[2026-03-09 20:19:18] Starting Evaluation Run
+[2026-03-09 20:19:18] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-09 20:19:18] Successfully indexed 200 chunks from 12 files.
+[2026-03-09 20:19:18] Loaded 200 chunks from Gold Standard.
+[2026-03-09 20:19:18] Existing results file found. Resuming...
+[2026-03-09 20:19:18] Processing openai/gpt-oss-20b: 200 chunks remaining.
+[2026-03-09 20:26:13] Evaluation complete.
+[2026-03-09 20:26:49] Starting Evaluation Run
+[2026-03-09 20:26:49] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-09 20:26:49] Successfully indexed 200 chunks from 12 files.
+[2026-03-09 20:26:49] Loaded 200 chunks from Gold Standard.
+[2026-03-09 20:26:49] Existing results file found. Resuming...
+[2026-03-09 20:26:49] Processing deepseek/deepseek-v3.2: 200 chunks remaining.
+[2026-03-09 20:45:33] Evaluation complete.
+[2026-03-09 20:49:36] Starting Evaluation Run
+[2026-03-09 20:49:36] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-09 20:49:36] Successfully indexed 200 chunks from 12 files.
+[2026-03-09 20:49:36] Loaded 200 chunks from Gold Standard.
+[2026-03-09 20:49:36] Existing results file found. Resuming...
+[2026-03-09 20:49:36] Processing nvidia/nemotron-3-nano-30b-a3b: 200 chunks remaining.
+[2026-03-09 20:55:16] Evaluation complete.
+[2026-03-09 21:00:29] Starting Evaluation Run
+[2026-03-09 21:00:29] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-09 21:00:29] Successfully indexed 200 chunks from 12 files.
+[2026-03-09 21:00:29] Loaded 200 chunks from Gold Standard.
+[2026-03-09 21:00:29] Existing results file found. Resuming...
+[2026-03-09 21:00:29] Processing moonshotai/kimi-k2-0905: 200 chunks remaining.
+[2026-03-09 21:07:43] Evaluation complete.

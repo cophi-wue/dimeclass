@@ -1,0 +1,201 @@
+id	gold_label	openai_gpt-oss-120b	openai_gpt-oss-20b	deepseek_deepseek-v3.2	nvidia_nemotron-3-nano-30b-a3b	moonshotai_kimi-k2-thinking	meta-llama_llama-3.3-70b-instruct_free	moonshotai_kimi-k2-0905
+000151_Fernthaler_Alpengold-265_9783732560165.json_0_5	introduction	introduction	introduction	introduction	chapter	introduction		introduction
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json_0_10	reader-information	reader-information	introduction	reader-information	reader-information	reader-information		reader-information
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_5_0	title-page	title-page	title-page	cover-image	title-page	title-page		title-page
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json_0_1	toc	toc	toc	toc	toc	toc		toc
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_5_9	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000137_Ein_Prinz_zum_Verlieben_-_Mindy_Neff.json_6_0	title-page	title-page	title-page	title-page	title-page	title-page		title-page
+000336_James_Baccara-Spezial-Band-5_9783733729264.json_5_15	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000102_Davenport_Dorian-Hunter-32---Horror-Seri_9783732590193.json_0_4	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json_0_2	imprint	imprint	imprint	imprint	imprint	imprint		imprint
+000102_Davenport_Dorian-Hunter-32---Horror-Seri_9783732590193.json_0_2	imprint	imprint	imprint	imprint	imprint	imprint		imprint
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_8_16	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000336_James_Baccara-Spezial-Band-5_9783733729264.json_7_0	title-page	title-page	title-page	title-page	title-page	title-page		title-page
+000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_5_6	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_7_3	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000779_Schuder_Das-Haus-Zamis-20_9783751717670.json_0_12	advertisement	advertisement	advertisement	advertisement	advertisement	advertisement		advertisement
+000698_Monroe_Julia-Extra-Band-370_9783954467396.json_8_1	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000698_Monroe_Julia-Extra-Band-370_9783954467396.json_7_13	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000698_Monroe_Julia-Extra-Band-370_9783954467396.json_5_0	title-page	title-page	title-page	cover-image	title-page	title-page		cover-image
+000698_Monroe_Julia-Extra-Band-370_9783954467396.json_8_16	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000698_Monroe_Julia-Extra-Band-370_9783954467396.json_8_0	title-page	title-page	title-page	title-page	title-page	title-page		cover-image
+000698_Monroe_Julia-Extra-Band-370_9783954467396.json_6_0	title-page	title-page	title-page	title-page	title-page	title-page		title-page
+000698_Monroe_Julia-Extra-Band-370_9783954467396.json_7_0	title-page	title-page	title-page	title-page	title-page	title-page		title-page
+000253_Hoffmann_Tiffany-Extra-Hot-_-Sexy-Band-_9783733752859.json_8_0	title-page	title-page	title-page	title-page	title-page			title-page
+000253_Hoffmann_Tiffany-Extra-Hot-_-Sexy-Band-_9783733752859.json_7_0	title-page	title-page	title-page	title-page	title-page			title-page
+000253_Hoffmann_Tiffany-Extra-Hot-_-Sexy-Band-_9783733752859.json_5_1	chapter	chapter	chapter	chapter	chapter			chapter
+000253_Hoffmann_Tiffany-Extra-Hot-_-Sexy-Band-_9783733752859.json_5_0	title-page	cover-image	cover-image	cover-image	title-page			title-page
+000566_Kufsteiner_Das-Berghotel-203_9783732586653.json_0_1	toc	toc	toc	toc	toc	toc		toc
+000929_Winters_Das-Herz-des-griechischen-Mill_9783733727321.json_6_15	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000929_Winters_Das-Herz-des-griechischen-Mill_9783733727321.json_4_2	imprint	imprint	imprint	imprint	imprint	imprint		imprint
+000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau.json_7_0	title-page	title-page	title-page	title-page	title-page			title-page
+000137_Ein_Prinz_zum_Verlieben_-_Mindy_Neff.json_6_13	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_5_10	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000779_Schuder_Das-Haus-Zamis-20_9783751717670.json_0_9	reading-sample	chapter	chapter	reading-sample	reading-sample	reading-sample		reading-sample
+000779_Schuder_Das-Haus-Zamis-20_9783751717670.json_0_6	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json_0_6	feedback	feedback	feedback	feedback	feedback	feedback		feedback
+000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_8_5	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau.json_6_8	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json_0_6	feedback	feedback	advertisement	feedback	advertisement	feedback		feedback
+000052_Carson_Dorian-Hunter-36---Horror-Seri_9783732591916.json_0_12	advertisement	advertisement	advertisement	advertisement	advertisement	advertisement		advertisement
+000449_John_Sinclair_-_Folge_0008_-_Jason_Dark.json_0_3	introduction	introduction	introduction	introduction	introduction	reading-sample		reading-sample
+000052_Carson_Dorian-Hunter-36---Horror-Seri_9783732591916.json_0_11	reading-sample	chapter	chapter	reading-sample	chapter	reading-sample		reading-sample
+000102_Davenport_Dorian-Hunter-32---Horror-Seri_9783732590193.json_0_1	toc	toc	toc	toc	toc	toc		toc
+000796_Seeberg_Fuersten-Roman-2631_9783751711548.json_0_5	imprint	imprint	imprint	imprint	imprint	imprint		imprint
+000335_Jackson_Collection-Baccara-Band-363_9783733722692.json_5_0	title-page	title-page	title-page	cover-image	title-page	title-page		title-page
+000449_John_Sinclair_-_Folge_0008_-_Jason_Dark.json_0_4	author_information	author_information	author_information	author_information	author_information	author_information		author_information
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_5_7	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_5_0	title-page	title-page	title-page	cover-image	title-page	title-page		cover-image
+000449_John_Sinclair_-_Folge_0008_-_Jason_Dark.json_0_9	feedback	feedback	feedback	feedback	advertisement	feedback		feedback
+000102_Davenport_Dorian-Hunter-32---Horror-Seri_9783732590193.json_0_3	introduction	introduction	chapter	introduction	chapter	introduction		introduction
+000052_Carson_Dorian-Hunter-36---Horror-Seri_9783732591916.json_0_3	introduction	introduction	chapter	introduction	chapter	chapter		introduction
+000633_Laurent_Fuersten-Roman-2598_9783732592258.json_0_0	cover-image	cover-image	cover-image	cover-image	cover-image	cover-image		cover-image
+000336_James_Baccara-Spezial-Band-5_9783733729264.json_6_13	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000449_John_Sinclair_-_Folge_0008_-_Jason_Dark.json_0_1	toc	toc	toc	toc	introduction	toc		toc
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_7_4	chapter	chapter	chapter	chapter	chapter	chapter		chapter
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json_0_3	introduction	chapter	chapter	introduction	chapter	introduction		introduction
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json_0_0	cover-image	cover-image	cover-image	cover-image	cover-image	cover-image		cover-image
+000796_Seeberg_Fuersten-Roman-2631_9783751711548.json_0_6	advertisement	advertisement	advertisement	advertisement	advertisement	advertisement		advertisement
+000906_Warren_Dorian-Hunter-33---Horror-Seri_9783732590209.json_0_3	introduction	introduction	chapter	introduction	chapter	chapter		chapter
+000336_James_Baccara-Spezial-Band-5_9783733729264.json_5_0	title-page	title-page	title-page	title-page	title-page			title-page
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json_0_6	chapter	chapter	chapter	chapter	chapter			chapter
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_6_5	chapter	chapter	chapter	chapter	chapter			chapter
+000102_Davenport_Dorian-Hunter-32---Horror-Seri_9783732590193.json_0_14	reading-sample	advertisement	advertisement	advertisement	advertisement			advertisement
+000335_Jackson_Collection-Baccara-Band-363_9783733722692.json_6_0	title-page	title-page	title-page	title-page	title-page			title-page
+000151_Fernthaler_Alpengold-265_9783732560165.json_0_7	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json_0_2	imprint	imprint	imprint	imprint	imprint			imprint
+000796_Seeberg_Fuersten-Roman-2631_9783751711548.json_0_3	introduction	advertisement	advertisement	reading-sample	advertisement			reading-sample
+000879_Vlcek_Dorian-Hunter-19---Horror-Seri_9783732580606.json_0_4	chapter	chapter	chapter	title-page	chapter			reading-sample
+000633_Laurent_Fuersten-Roman-2598_9783732592258.json_0_2	imprint	imprint	imprint	imprint	imprint			imprint
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_8_7	chapter	chapter	chapter	chapter	chapter			chapter
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_6_0	title-page	title-page	title-page	title-page	title-page			title-page
+000879_Vlcek_Dorian-Hunter-19---Horror-Seri_9783732580606.json_0_12	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json_0_11	reading-sample	chapter	chapter	reading-sample	reading-sample			reading-sample
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json_0_5	advertisement	introduction	advertisement	chapter	chapter			introduction
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json_0_4	chapter	chapter	chapter	chapter	chapter			chapter
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_7_8	chapter	chapter	chapter	chapter	chapter			chapter
+000796_Seeberg_Fuersten-Roman-2631_9783751711548.json_0_0	cover-image	cover-image	cover-image	cover-image	cover-image			cover-image
+000633_Laurent_Fuersten-Roman-2598_9783732592258.json_0_1	toc	toc	toc	toc	toc			toc
+000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau.json_5_15	chapter	chapter	chapter	chapter	chapter			chapter
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json_0_2	imprint	imprint	imprint	imprint	imprint			imprint
+000837_Stern_Maddrax-347_9783838733357.json_0_2	imprint	imprint	imprint	imprint	imprint			imprint
+000633_Laurent_Fuersten-Roman-2598_9783732592258.json_0_4	advertisement	introduction	introduction	reading-sample	chapter			reading-sample
+000335_Jackson_Collection-Baccara-Band-363_9783733722692.json_7_0	title-page	title-page	title-page	title-page	title-page			cover-image
+000779_Schuder_Das-Haus-Zamis-20_9783751717670.json_0_1	toc	toc	toc	toc	toc			toc
+000779_Schuder_Das-Haus-Zamis-20_9783751717670.json_0_11	imprint	imprint	imprint	imprint	imprint			imprint
+000137_Ein_Prinz_zum_Verlieben_-_Mindy_Neff.json_5_1	introduction	introduction	chapter	chapter	chapter			chapter
+000879_Vlcek_Dorian-Hunter-19---Horror-Seri_9783732580606.json_0_3	introduction	introduction	chapter	introduction	chapter			introduction
+000906_Warren_Dorian-Hunter-33---Horror-Seri_9783732590209.json_0_10	advertisement	advertisement	chapter	reading-sample	chapter			reading-sample
+000052_Carson_Dorian-Hunter-36---Horror-Seri_9783732591916.json_0_14	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_5_11	chapter	chapter	chapter	chapter	chapter			chapter
+000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_7_0	title-page	title-page	title-page	title-page	title-page			title-page
+000137_Ein_Prinz_zum_Verlieben_-_Mindy_Neff.json_6_1	introduction	introduction	chapter	chapter	chapter			chapter
+000151_Fernthaler_Alpengold-265_9783732560165.json_0_6	feedback	advertisement	advertisement	feedback	feedback			feedback
+000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_6_0	reading-sample	title-page	title-page	title-page	cover-image			title-page
+000151_Fernthaler_Alpengold-265_9783732560165.json_0_3	introduction	introduction	chapter	title-page	chapter			introduction
+000137_Ein_Prinz_zum_Verlieben_-_Mindy_Neff.json_5_2	chapter	chapter	chapter	chapter	chapter			chapter
+000052_Carson_Dorian-Hunter-36---Horror-Seri_9783732591916.json_0_1	toc	toc	toc	toc	toc			toc
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_6_12	chapter	chapter	chapter	chapter	chapter			chapter
+000449_John_Sinclair_-_Folge_0008_-_Jason_Dark.json_0_6	chapter	chapter	chapter	chapter	chapter			chapter
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json_0_4	chapter	chapter	chapter	chapter	chapter			chapter
+000335_Jackson_Collection-Baccara-Band-363_9783733722692.json_6_3	chapter	chapter	chapter	chapter	chapter			chapter
+000449_John_Sinclair_-_Folge_0008_-_Jason_Dark.json_0_2	introduction	introduction	introduction	introduction	introduction			introduction
+000633_Laurent_Fuersten-Roman-2598_9783732592258.json_0_6	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000137_Ein_Prinz_zum_Verlieben_-_Mindy_Neff.json_4_1	introduction	introduction	chapter	chapter	chapter			chapter
+000335_Jackson_Collection-Baccara-Band-363_9783733722692.json_5_6	chapter	chapter	chapter	chapter	chapter			chapter
+000837_Stern_Maddrax-347_9783838733357.json_0_11	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000906_Warren_Dorian-Hunter-33---Horror-Seri_9783732590209.json_0_4	chapter	chapter	chapter	chapter	chapter			reading-sample
+000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_8_3	chapter	chapter	chapter	chapter	chapter			chapter
+000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_6_6	chapter	chapter	chapter	chapter	chapter			chapter
+000906_Warren_Dorian-Hunter-33---Horror-Seri_9783732590209.json_0_2	imprint	imprint	imprint	imprint	imprint			imprint
+000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_8_0	title-page	title-page	title-page	cover-image	title-page			title-page
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json_0_3	introduction	introduction	introduction	introduction	chapter			introduction
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json_0_13	advertisement	advertisement	advertisement	advertisement	reading-sample			advertisement
+000102_Davenport_Dorian-Hunter-32---Horror-Seri_9783732590193.json_0_12	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_6_10	chapter	chapter	chapter	chapter	chapter			chapter
+000779_Schuder_Das-Haus-Zamis-20_9783751717670.json_0_2	introduction	chapter	chapter	chapter	chapter			chapter
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json_0_7	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json_0_2	imprint	imprint	imprint	imprint	imprint			imprint
+000336_James_Baccara-Spezial-Band-5_9783733729264.json_6_1	chapter	chapter	chapter	chapter	chapter			chapter
+000837_Stern_Maddrax-347_9783838733357.json_0_4	chapter	chapter	chapter	chapter	chapter			chapter
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json_0_13	advertisement	advertisement	advertisement	advertisement	reading-sample			advertisement
+000837_Stern_Maddrax-347_9783838733357.json_0_8	reader-information	chapter	chapter	chapter	chapter			chapter
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json_0_5	advertisement	introduction	chapter	advertisement	chapter			reading-sample
+000336_James_Baccara-Spezial-Band-5_9783733729264.json_5_11	chapter	chapter	chapter	chapter	chapter			chapter
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json_0_3	introduction	chapter	chapter	introduction	chapter			chapter
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json_0_0	cover-image	cover-image	cover-image	cover-image	cover-image			cover-image
+000837_Stern_Maddrax-347_9783838733357.json_0_7	feedback	feedback	feedback	feedback	feedback			feedback
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json_0_7	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000879_Vlcek_Dorian-Hunter-19---Horror-Seri_9783732580606.json_0_2	imprint	imprint	imprint	imprint	imprint			imprint
+000137_Ein_Prinz_zum_Verlieben_-_Mindy_Neff.json_5_0	title-page	title-page	title-page	title-page	title-page			title-page
+000052_Carson_Dorian-Hunter-36---Horror-Seri_9783732591916.json_0_2	imprint	imprint	imprint	imprint	imprint			imprint
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_7_0	title-page	title-page	cover-image	title-page	title-page			cover-image
+000879_Vlcek_Dorian-Hunter-19---Horror-Seri_9783732580606.json_0_7	chapter	chapter	chapter	chapter	chapter			chapter
+000449_John_Sinclair_-_Folge_0008_-_Jason_Dark.json_0_5	imprint	imprint	imprint	imprint	imprint			imprint
+000052_Carson_Dorian-Hunter-36---Horror-Seri_9783732591916.json_0_4	chapter	chapter	chapter	chapter	chapter			reading-sample
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_7_6	chapter	chapter	chapter	chapter	chapter			chapter
+000335_Jackson_Collection-Baccara-Band-363_9783733722692.json_5_9	chapter	chapter	chapter	chapter	chapter			chapter
+000335_Jackson_Collection-Baccara-Band-363_9783733722692.json_7_11	chapter	chapter	chapter	chapter	chapter			chapter
+000102_Davenport_Dorian-Hunter-32---Horror-Seri_9783732590193.json_0_11	advertisement	chapter	chapter	reading-sample	chapter			reading-sample
+000906_Warren_Dorian-Hunter-33---Horror-Seri_9783732590209.json_0_1	toc	toc	toc	toc	toc			toc
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_8_14	chapter	chapter	chapter	chapter	chapter			chapter
+000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_6_4	chapter	chapter	chapter	chapter	chapter			chapter
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json_0_0	cover-image	cover-image	cover-image	cover-image	cover-image			cover-image
+000336_James_Baccara-Spezial-Band-5_9783733729264.json_7_16	chapter	chapter	chapter	chapter	chapter			chapter
+000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau.json_5_3	chapter	chapter	chapter	chapter	chapter			chapter
+000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau.json_6_0	title-page	title-page	title-page	title-page	title-page			title-page
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json_0_3	chapter	chapter	chapter	chapter	chapter			chapter
+000879_Vlcek_Dorian-Hunter-19---Horror-Seri_9783732580606.json_0_11	advertisement	advertisement	advertisement	reading-sample	chapter			reading-sample
+000449_John_Sinclair_-_Folge_0008_-_Jason_Dark.json_0_0	cover-image	cover-image	cover-image	cover-image	cover-image			cover-image
+000906_Warren_Dorian-Hunter-33---Horror-Seri_9783732590209.json_0_11	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_8_9	chapter	chapter	chapter	chapter	chapter			chapter
+000879_Vlcek_Dorian-Hunter-19---Horror-Seri_9783732580606.json_0_1	toc	toc	toc	toc	toc			toc
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json_0_1	toc	toc	toc	toc	toc			toc
+000449_John_Sinclair_-_Folge_0008_-_Jason_Dark.json_0_8	advertisement	introduction	introduction	reading-sample	advertisement			reading-sample
+000779_Schuder_Das-Haus-Zamis-20_9783751717670.json_0_3	chapter	chapter	chapter	chapter	chapter			chapter
+000336_James_Baccara-Spezial-Band-5_9783733729264.json_5_13	chapter	chapter	chapter	chapter	chapter			chapter
+000137_Ein_Prinz_zum_Verlieben_-_Mindy_Neff.json_5_13	chapter	chapter	chapter	chapter	chapter			chapter
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_7_5	chapter	chapter	chapter	chapter	chapter			chapter
+000906_Warren_Dorian-Hunter-33---Horror-Seri_9783732590209.json_0_13	advertisement	advertisement	advertisement	advertisement	reading-sample			advertisement
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json_0_1	toc	toc	toc	toc	toc			toc
+000151_Fernthaler_Alpengold-265_9783732560165.json_0_2	imprint	imprint	imprint	imprint	imprint			imprint
+000151_Fernthaler_Alpengold-265_9783732560165.json_0_1	toc	toc	toc	toc	toc			toc
+000137_Ein_Prinz_zum_Verlieben_-_Mindy_Neff.json_6_14	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000837_Stern_Maddrax-347_9783838733357.json_0_10	feedback	feedback	feedback	feedback	feedback			feedback
+000335_Jackson_Collection-Baccara-Band-363_9783733722692.json_6_6	chapter	chapter	chapter	chapter	chapter			chapter
+000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_6_2	chapter	chapter	chapter	chapter	chapter			chapter
+000335_Jackson_Collection-Baccara-Band-363_9783733722692.json_5_7	chapter	chapter	chapter	chapter	chapter			chapter
+000137_Ein_Prinz_zum_Verlieben_-_Mindy_Neff.json_4_0	title-page	title-page	title-page	title-page	title-page			title-page
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json_0_11	advertisement	chapter	chapter	reading-sample	reading-sample			reading-sample
+000335_Jackson_Collection-Baccara-Band-363_9783733722692.json_6_1	chapter	chapter	chapter	chapter	chapter			chapter
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json_0_4	chapter	chapter	chapter	chapter	chapter			chapter
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_6_6	chapter	chapter	chapter	chapter	chapter			chapter
+000837_Stern_Maddrax-347_9783838733357.json_0_9	advertisement	advertisement	reading-sample	reading-sample	chapter			reading-sample
+000879_Vlcek_Dorian-Hunter-19---Horror-Seri_9783732580606.json_0_14	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau.json_7_10	chapter	chapter	chapter	chapter	chapter			chapter
+000606_Kufsteiner_Der-Bergdoktor-1757_9783732509645.json_0_3	chapter	introduction	introduction	title-page	chapter			introduction
+000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_3	chapter	chapter	chapter	chapter	chapter			chapter
+000606_Kufsteiner_Der-Bergdoktor-1757_9783732509645.json_0_1	toc	toc	toc	toc	unknown			toc
+000566_Kufsteiner_Das-Berghotel-203_9783732586653.json_0_2	imprint	imprint	imprint	imprint	imprint			imprint
+000566_Kufsteiner_Das-Berghotel-203_9783732586653.json_0_4	advertisement	advertisement	introduction	reading-sample	reading-sample			reading-sample
+000606_Kufsteiner_Der-Bergdoktor-1757_9783732509645.json_0_5	advertisement	introduction	chapter	introduction	title-page			introduction
+000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau.json_7_13	chapter	chapter	chapter	chapter	chapter			chapter
+000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_6	feedback	feedback	feedback	feedback	advertisement			feedback
+000566_Kufsteiner_Das-Berghotel-203_9783732586653.json_0_0	cover-image	cover-image	cover-image	cover-image	unknown			cover-image
+000837_Stern_Maddrax-347_9783838733357.json_0_1	toc	toc	toc	toc	toc			toc
+000606_Kufsteiner_Der-Bergdoktor-1757_9783732509645.json_0_6	feedback	feedback	advertisement	feedback	feedback			feedback
+000606_Kufsteiner_Der-Bergdoktor-1757_9783732509645.json_0_7	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000796_Seeberg_Fuersten-Roman-2631_9783751711548.json_0_1	toc	toc	toc	toc	toc			toc
+000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_5	advertisement	introduction	chapter	advertisement	chapter			reading-sample
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json_0_1	toc	toc	toc	toc	toc			toc
+000566_Kufsteiner_Das-Berghotel-203_9783732586653.json_0_6	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau.json_5_0	title-page	title-page	title-page	cover-image	title-page			cover-image
+000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_0	cover-image	cover-image	cover-image	cover-image	cover-image			cover-image
+000336_James_Baccara-Spezial-Band-5_9783733729264.json_6_15	chapter	chapter	chapter	chapter	chapter			chapter
+000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_8_0	title-page	title-page	title-page	title-page	title-page			cover-image
+000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_2	imprint	imprint	imprint	imprint	imprint			imprint
+000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_7	advertisement	advertisement	advertisement	advertisement	advertisement			advertisement
+000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_1	toc	toc	toc	toc	toc			toc
+000837_Stern_Maddrax-347_9783838733357.json_0_3	introduction	introduction	chapter	chapter	chapter			introduction
+000137_Ein_Prinz_zum_Verlieben_-_Mindy_Neff.json_6_2	chapter	chapter	chapter	chapter	chapter			chapter
+000606_Kufsteiner_Der-Bergdoktor-1757_9783732509645.json_0_2	imprint	imprint	imprint	imprint	imprint			imprint

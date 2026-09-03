@@ -1,0 +1,117 @@
+[2026-03-12 15:17:59] Starting Evaluation Run
+[2026-03-12 15:17:59] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-12 15:17:59] Successfully indexed 200 chunks from 12 files.
+[2026-03-12 15:17:59] Loaded 200 chunks from Gold Standard.
+[2026-03-12 15:17:59] New results file initialized.
+[2026-03-12 15:17:59] Processing mistralai/mistral-large-2512: 200 chunks remaining.
+[2026-03-12 15:21:17] Evaluation complete.
+[2026-03-12 15:24:28] Starting Evaluation Run
+[2026-03-12 15:24:28] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-12 15:24:28] Successfully indexed 200 chunks from 12 files.
+[2026-03-12 15:24:28] Loaded 200 chunks from Gold Standard.
+[2026-03-12 15:24:28] Existing results file found. Resuming...
+[2026-03-12 15:24:28] Processing qwen/qwen3.5-397b-a17b: 200 chunks remaining.
+[2026-03-12 15:27:35] Starting Evaluation Run
+[2026-03-12 15:27:35] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-12 15:27:35] Successfully indexed 200 chunks from 12 files.
+[2026-03-12 15:27:35] Loaded 200 chunks from Gold Standard.
+[2026-03-12 15:27:35] Existing results file found. Resuming...
+[2026-03-12 15:27:35] Processing meta-llama/llama-3.3-70b-instruct: 200 chunks remaining.
+[2026-03-12 15:37:51] Evaluation complete.
+[2026-03-12 15:48:12] Starting Evaluation Run
+[2026-03-12 15:48:12] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-12 15:48:12] Successfully indexed 200 chunks from 12 files.
+[2026-03-12 15:48:12] Loaded 200 chunks from Gold Standard.
+[2026-03-12 15:48:12] Existing results file found. Resuming...
+[2026-03-12 15:48:12] Processing z-ai/glm-5: 200 chunks remaining.
+[2026-03-12 15:49:30] Starting Evaluation Run
+[2026-03-12 15:49:30] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-12 15:49:30] Successfully indexed 200 chunks from 12 files.
+[2026-03-12 15:49:30] Loaded 200 chunks from Gold Standard.
+[2026-03-12 15:49:30] Existing results file found. Resuming...
+[2026-03-12 15:49:30] Processing deepseek/deepseek-v3.2-speciale: 200 chunks remaining.
+[2026-03-12 15:58:07] Error processing 000698_Monroe_Julia-Extra-Band-370_9783954467396.json_8_0 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-12 16:01:13] Error processing 000253_Hoffmann_Tiffany-Extra-Hot-_-Sexy-Band-_9783733752859.json_7_0 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-12 16:09:44] Error processing 000449_John_Sinclair_-_Folge_0008_-_Jason_Dark.json_0_4 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-12 16:25:12] Error processing 000299_JULIA_EXTRA_BAND_405_-_Melanie_Milburne,_Sara_Craven,_.json_7_0 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-12 16:29:59] Error processing 000335_Jackson_Collection-Baccara-Band-363_9783733722692.json_6_3 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-12 16:30:20] Error processing 000449_John_Sinclair_-_Folge_0008_-_Jason_Dark.json_0_2 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-12 16:32:24] Error processing 000906_Warren_Dorian-Hunter-33---Horror-Seri_9783732590209.json_0_4 with deepseek/deepseek-v3.2-speciale: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-v3.2-speciale is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'AtlasCloud', 'is_byok': False}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-12 17:03:45] Evaluation complete.
+[2026-03-13 10:52:32] Starting Evaluation Run
+[2026-03-13 10:52:32] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-13 10:52:32] Successfully indexed 200 chunks from 12 files.
+[2026-03-13 10:52:32] Loaded 200 chunks from Gold Standard.
+[2026-03-13 10:52:32] Existing results file found. Resuming...
+[2026-03-13 10:52:32] Processing qwen/qwen3.5-397b-a17b: 200 chunks remaining.
+[2026-03-13 12:02:32] Starting Evaluation Run
+[2026-03-13 12:02:32] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-13 12:02:32] Successfully indexed 200 chunks from 12 files.
+[2026-03-13 12:02:32] Loaded 200 chunks from Gold Standard.
+[2026-03-13 12:02:32] Existing results file found. Resuming...
+[2026-03-13 12:02:32] Processing qwen/qwen3.5-397b-a17b: 120 chunks remaining.
+[2026-03-13 12:38:42] Starting Evaluation Run
+[2026-03-13 12:38:42] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-13 12:38:42] Successfully indexed 200 chunks from 12 files.
+[2026-03-13 12:38:42] Loaded 200 chunks from Gold Standard.
+[2026-03-13 12:38:42] Existing results file found. Resuming...
+[2026-03-13 12:38:42] Processing qwen/qwen3.5-397b-a17b: 95 chunks remaining.
+[2026-03-13 13:19:14] Error processing 000606_Kufsteiner_Der-Bergdoktor-1757_9783732509645.json_0_1 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 38976. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:19:19] Error processing 000566_Kufsteiner_Das-Berghotel-203_9783732586653.json_0_2 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 40090. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:19:24] Error processing 000566_Kufsteiner_Das-Berghotel-203_9783732586653.json_0_4 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 38976. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:19:29] Error processing 000606_Kufsteiner_Der-Bergdoktor-1757_9783732509645.json_0_5 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 38976. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:19:34] Error processing 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau.json_7_13 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 57156. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:19:40] Error processing 000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_6 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:19:45] Error processing 000566_Kufsteiner_Das-Berghotel-203_9783732586653.json_0_0 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:19:50] Error processing 000837_Stern_Maddrax-347_9783838733357.json_0_1 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:19:56] Error processing 000606_Kufsteiner_Der-Bergdoktor-1757_9783732509645.json_0_6 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:20:01] Error processing 000606_Kufsteiner_Der-Bergdoktor-1757_9783732509645.json_0_7 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:20:06] Error processing 000796_Seeberg_Fuersten-Roman-2631_9783751711548.json_0_1 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 38212. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:20:11] Error processing 000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_5 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:20:17] Error processing 000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json_0_1 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:20:22] Error processing 000566_Kufsteiner_Das-Berghotel-203_9783732586653.json_0_6 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 38212. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:20:27] Error processing 000044_COLLECTION_BACCARA_BAND_362_-_Maureen_Smith,_Jennifer_Greene,_Andrea_Lau.json_5_0 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:20:32] Error processing 000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_0 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:20:37] Error processing 000336_James_Baccara-Spezial-Band-5_9783733729264.json_6_15 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:20:43] Error processing 000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_8_0 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:20:48] Error processing 000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_2 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:20:53] Error processing 000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_7 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:20:58] Error processing 000341_Jerry_Cotton_-_Folge_3051__Zeit_-_Cotton,_Jerry.json_0_1 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:21:04] Error processing 000837_Stern_Maddrax-347_9783838733357.json_0_3 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:21:09] Error processing 000137_Ein_Prinz_zum_Verlieben_-_Mindy_Neff.json_6_2 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:21:14] Error processing 000606_Kufsteiner_Der-Bergdoktor-1757_9783732509645.json_0_2 with qwen/qwen3.5-397b-a17b: Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 37151. To increase, visit https://openrouter.ai/settings/credits and add more credits', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_2zK4oiRZXJA8BryuPDvbkCoeD9h'}
+[2026-03-13 13:21:19] Evaluation complete.
+[2026-03-13 13:49:31] Starting Evaluation Run
+[2026-03-13 13:49:31] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-13 13:49:31] Successfully indexed 200 chunks from 12 files.
+[2026-03-13 13:49:31] Loaded 200 chunks from Gold Standard.
+[2026-03-13 13:49:31] Existing results file found. Resuming...
+[2026-03-13 13:49:31] Processing deepseek/deepseek-v3.2-speciale: 7 chunks remaining.
+[2026-03-13 13:53:04] Evaluation complete.
+[2026-03-13 14:12:40] Starting Evaluation Run
+[2026-03-13 14:12:40] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-13 14:12:40] Successfully indexed 200 chunks from 12 files.
+[2026-03-13 14:12:40] Loaded 200 chunks from Gold Standard.
+[2026-03-13 14:12:40] Existing results file found. Resuming...
+[2026-03-13 14:12:40] Processing qwen/qwen3.5-397b-a17b: 24 chunks remaining.
+[2026-03-13 14:26:08] Evaluation complete.
+[2026-03-13 14:28:45] Starting Evaluation Run
+[2026-03-13 14:28:45] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-13 14:28:45] Successfully indexed 200 chunks from 12 files.
+[2026-03-13 14:28:45] Loaded 200 chunks from Gold Standard.
+[2026-03-13 14:28:45] Existing results file found. Resuming...
+[2026-03-13 14:28:45] Processing z-ai/glm-5: 200 chunks remaining.
+[2026-03-13 14:38:00] Error processing 000803_Shalvis_Tiffany-Extra-Band-3_9783954466764.json_5_10 with z-ai/glm-5: Invalid json output:
+For troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/OUTPUT_PARSING_FAILURE
+[2026-03-13 15:40:33] Evaluation complete.
+[2026-03-13 16:02:03] Starting Evaluation Run
+[2026-03-13 16:02:03] Scanning /home/spielberg/code/repos/dimeclass/conversion/scripts/python/goldstandard_labels_creation/chunks_for_labeling for chunk data...
+[2026-03-13 16:02:03] Successfully indexed 200 chunks from 12 files.
+[2026-03-13 16:02:03] Loaded 200 chunks from Gold Standard.
+[2026-03-13 16:02:03] Existing results file found. Resuming...
+[2026-03-13 16:02:03] Skipping mistralai/mistral-large-2512 (Already complete).
+[2026-03-13 16:02:03] Skipping qwen/qwen3.5-397b-a17b (Already complete).
+[2026-03-13 16:02:03] Skipping meta-llama/llama-3.3-70b-instruct (Already complete).
+[2026-03-13 16:02:03] Processing z-ai/glm-5: 1 chunks remaining.
+[2026-03-13 16:02:18] Skipping deepseek/deepseek-v3.2-speciale (Already complete).
+[2026-03-13 16:02:18] Evaluation complete.

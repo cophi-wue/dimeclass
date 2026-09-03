@@ -1,0 +1,157 @@
+filename	id	type	inferred_type	words_plain	tokens_plain	tokens_markup	tokens_overhead	ratio_markup	tags_approx	chunks_needed_4096	chunks_needed_8192	chunks_needed_32768	chunks_needed_128000
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	toc	meta	toc	10	14	116	102	8.2857	14	1	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	imprint	meta	imprint	51	157	871	714	5.5478	31	1	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	prelude	meta	prelude	246	436	1080	644	2.4771	30	1	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_1	narrative	novel	365	668	1470	802	2.2006	24	1	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_2	narrative	novel	1757	3302	8450	5148	2.5591	166	3	2	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_3	narrative	novel	1715	3075	7343	4268	2.388	146	2	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_4	narrative	novel	1279	2251	5603	3352	2.4891	106	2	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_5	narrative	novel	1858	3319	8528	5209	2.5694	166	3	2	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_6	narrative	novel	1938	3595	9625	6030	2.6773	196	3	2	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_7	narrative	novel	1260	2292	4899	2607	2.1374	88	2	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_8	narrative	novel	1100	2027	5427	3400	2.6774	114	2	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_9	narrative	novel	1063	1950	5373	3423	2.7554	112	2	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_10	narrative	novel	1508	2782	7598	4816	2.7311	158	2	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_11	narrative	novel	2732	4977	12605	7628	2.5327	248	4	2	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_12	narrative	novel	858	1606	3973	2367	2.4738	74	1	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_13	narrative	novel	1456	2649	6165	3516	2.3273	112	2	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_14	narrative	novel	895	1661	4763	3102	2.8675	98	2	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_15	narrative	novel	1194	2118	5920	3802	2.7951	148	2	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_16	narrative	novel	904	1629	4087	2458	2.5089	80	1	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_17	narrative	novel	1528	2684	6678	3994	2.4881	128	2	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_18	narrative	novel	611	1074	2763	1689	2.5726	56	1	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	novel_split_19	narrative	novel	1113	1973	4750	2777	2.4075	98	2	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	preview	meta	preview	265	453	1016	563	2.2428	20	1	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	feedback	meta	feedback	40	76	484	408	6.3684	23	1	1	1	1
+000533_Kufsteiner_Das-Berghotel-112_9783732528110.json	reading-sample	meta	reading-sample	629	1205	2402	1197	1.9934	124	1	1	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	cover	meta	cover	0	0	93	93	1.0	8	1	1	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	toc	meta	toc	20	58	224	166	3.8621	28	1	1	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	imprint	meta	imprint	39	128	724	596	5.6562	24	1	1	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	unkown	meta	unkown	392	732	1360	628	1.8579	23	1	1	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	unkown	meta	unkown	148	305	821	516	2.6918	19	1	1	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	chapter	narrative	chapter	4677	8860	17527	8667	1.9782	252	5	3	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	chapter	narrative	chapter	6395	11883	22607	10724	1.9025	302	6	3	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	chapter	narrative	chapter	6879	12672	23631	10959	1.8648	314	6	3	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	chapter	narrative	chapter	3940	7202	14240	7038	1.9772	200	4	2	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	chapter	narrative	chapter	2982	5537	10648	5111	1.9231	152	3	2	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	unkown	meta	unkown	2	6	103	97	17.1667	8	1	1	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	preview	meta	preview	158	291	1009	718	3.4674	25	1	1	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	feedback	meta	feedback	3	4	98	94	24.5	11	1	1	1	1
+000871_Vlcek_Das-Haus-Zamis-3_9783751705271.json	reading-sample	meta	reading-sample	316	553	1565	1012	2.83	93	1	1	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	cover	meta	cover	0	0	93	93	1.0	8	1	1	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	toc	meta	toc	21	59	228	169	3.8644	28	1	1	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	imprint	meta	imprint	45	143	790	647	5.5245	26	1	1	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	unkown	meta	unkown	417	773	1379	606	1.784	19	1	1	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	unkown	meta	unkown	151	274	812	538	2.9635	19	1	1	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	chapter	narrative	chapter	5894	10672	23432	12760	2.1957	432	6	3	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	chapter	narrative	chapter	4070	7583	17342	9759	2.287	344	5	3	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	chapter	narrative	chapter	5549	10149	22147	11998	2.1822	386	6	3	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	chapter	narrative	chapter	6242	11204	25804	14600	2.3031	496	7	4	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	chapter	narrative	chapter	5308	9596	21367	11771	2.2267	390	6	3	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	unkown	meta	unkown	879	1540	3608	2068	2.3429	138	1	1	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	preview	meta	preview	174	317	956	639	3.0158	28	1	1	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	feedback	meta	feedback	2	3	95	92	31.6667	11	1	1	1	1
+000887_Vlcek_Dorian-Hunter-46---Horror-Seri_9783732597987.json	reading-sample	meta	reading-sample	438	796	1855	1059	2.3304	99	1	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	unkown	meta	unkown	0	0	22	22	1.0	3	1	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	toc	meta	toc	32	66	210	144	3.1818	36	1	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	imprint	meta	imprint	33	103	210	107	2.0388	22	1	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	unkown	meta	unkown	284	522	737	215	1.4119	26	1	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	1527	2645	4830	2185	1.8261	122	2	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	1857	3163	5875	2712	1.8574	140	2	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	3474	6053	11539	5486	1.9063	298	3	2	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	3253	5451	9834	4383	1.8041	226	3	2	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	3986	6919	12634	5715	1.826	308	4	2	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	4466	7541	13872	6331	1.8395	342	4	2	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	2635	4470	8159	3689	1.8253	216	2	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	2328	3922	7572	3650	1.9306	210	2	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	2962	5081	9808	4727	1.9303	260	3	2	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	2322	3966	7648	3682	1.9284	220	2	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	2515	4253	8111	3858	1.9071	224	2	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	2029	3373	6607	3234	1.9588	206	2	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	chapter	narrative	chapter	2176	3751	7324	3573	1.9525	198	2	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	preview	meta	preview	129	228	312	84	1.3684	8	1	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	unkown	meta	unkown	60	120	231	111	1.925	14	1	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	unkown	meta	unkown	92	175	535	360	3.0571	35	1	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	unkown	meta	unkown	12	25	355	330	14.2	34	1	1	1	1
+G. F. Unger Sonder-Edition - Folge 003_ Texas-Marshal (German Edition).json	reading-sample	meta	reading-sample	73	134	537	403	4.0075	41	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	cover	meta	cover	0	0	24	24	1.0	3	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	toc	meta	toc	6	14	95	81	6.7857	14	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	imprint	meta	imprint	48	147	812	665	5.5238	30	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	unkown	meta	unkown	125	215	595	380	2.7674	14	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_1	narrative	novel	554	989	2299	1310	2.3246	48	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_2	narrative	novel	597	1054	2554	1500	2.4231	54	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_3	narrative	novel	765	1321	3060	1739	2.3164	66	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_4	narrative	novel	746	1306	2778	1472	2.1271	48	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_5	narrative	novel	186	353	810	457	2.2946	16	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_6	narrative	novel	415	725	1632	907	2.251	32	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_7	narrative	novel	433	769	1673	904	2.1756	30	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_8	narrative	novel	813	1506	3307	1801	2.1959	62	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_9	narrative	novel	1037	1798	3614	1816	2.01	54	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_10	narrative	novel	722	1313	3125	1812	2.38	66	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_11	narrative	novel	942	1666	3901	2235	2.3415	86	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_12	narrative	novel	991	1767	4262	2495	2.412	96	2	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_13	narrative	novel	764	1328	3194	1866	2.4051	66	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_14	narrative	novel	724	1285	3453	2168	2.6872	76	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_15	narrative	novel	862	1521	4072	2551	2.6772	96	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_16	narrative	novel	474	858	2110	1252	2.4592	46	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_17	narrative	novel	422	733	1789	1056	2.4407	38	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_18	narrative	novel	229	403	1009	606	2.5037	24	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_19	narrative	novel	770	1361	2942	1581	2.1616	56	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_20	narrative	novel	314	563	1617	1054	2.8721	38	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_21	narrative	novel	591	1061	2923	1862	2.7549	68	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_22	narrative	novel	171	277	601	324	2.1697	14	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_23	narrative	novel	819	1458	3552	2094	2.4362	80	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_24	narrative	novel	243	410	974	564	2.3756	22	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_25	narrative	novel	951	1726	4189	2463	2.427	84	2	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_26	narrative	novel	611	1090	2361	1271	2.1661	44	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_27	narrative	novel	940	1717	4208	2491	2.4508	88	2	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_28	narrative	novel	394	732	1667	935	2.2773	32	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_29	narrative	novel	574	1021	2298	1277	2.2507	42	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_30	narrative	novel	767	1334	3160	1826	2.3688	68	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_31	narrative	novel	265	495	1287	792	2.6	34	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_32	narrative	novel	701	1205	3048	1843	2.5295	70	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_33	narrative	novel	1047	1818	4714	2896	2.593	104	2	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_34	narrative	novel	750	1322	3069	1747	2.3215	60	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_35	narrative	novel	1178	2060	4652	2592	2.2583	88	2	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_36	narrative	novel	340	586	1489	903	2.541	34	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_37	narrative	novel	149	250	667	417	2.668	16	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_38	narrative	novel	337	557	1394	837	2.5027	34	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_39	narrative	novel	591	1068	2310	1242	2.1629	44	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_40	narrative	novel	1095	2035	5335	3300	2.6216	126	2	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_41	narrative	novel	678	1165	3093	1928	2.6549	70	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_42	narrative	novel	233	394	910	516	2.3096	18	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_43	narrative	novel	655	1146	2842	1696	2.4799	66	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	novel_split_44	narrative	novel	222	372	892	520	2.3978	20	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	preview	meta	preview	88	148	327	179	2.2095	6	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	feedback	meta	feedback	42	76	397	321	5.2237	20	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	reading-sample	meta	reading-sample	288	469	1364	895	2.9083	86	1	1	1	1
+000347_Jerry_Cotton_-_Folge_3083__Verw_-_Cotton,_Jerry.json	chapter	narrative	chapter	0	0	63	63	1.0	3	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	toc	meta	toc	7	15	115	100	7.6667	14	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	imprint	meta	imprint	49	146	867	721	5.9384	31	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	prelude	meta	prelude	145	245	693	448	2.8286	25	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_1	narrative	novel	1942	3350	7131	3781	2.1287	124	2	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_2	narrative	novel	1723	2897	6603	3706	2.2793	126	2	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_3	narrative	novel	341	580	1774	1194	3.0586	42	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_4	narrative	novel	474	815	2131	1316	2.6147	44	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_5	narrative	novel	609	1042	2581	1539	2.477	52	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_6	narrative	novel	1324	2203	6012	3809	2.729	130	2	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_7	narrative	novel	754	1254	2902	1648	2.3142	54	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_8	narrative	novel	2474	4075	9792	5717	2.4029	188	3	2	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_9	narrative	novel	1690	2827	6684	3857	2.3643	128	2	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_10	narrative	novel	1476	2511	6293	3782	2.5062	128	2	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_11	narrative	novel	325	567	1329	762	2.3439	24	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_12	narrative	novel	557	940	2406	1466	2.5596	50	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_13	narrative	novel	1392	2325	5994	3669	2.5781	128	2	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_14	narrative	novel	3079	5184	12751	7567	2.4597	256	4	2	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_15	narrative	novel	2608	4332	11075	6743	2.5566	226	3	2	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_16	narrative	novel	1141	1906	4851	2945	2.5451	100	2	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_17	narrative	novel	577	995	2187	1192	2.198	38	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_18	narrative	novel	656	1042	2618	1576	2.5125	54	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_19	narrative	novel	224	371	906	535	2.442	18	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_20	narrative	novel	876	1451	3338	1887	2.3005	60	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_21	narrative	novel	1815	2969	6737	3768	2.2691	120	2	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_22	narrative	novel	1562	2632	6512	3880	2.4742	130	2	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	novel_split_23	narrative	novel	903	1518	3498	1980	2.3043	68	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	preview	meta	preview	149	274	910	636	3.3212	29	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	feedback	meta	feedback	71	127	539	412	4.2441	22	1	1	1	1
+000151_Fernthaler_Alpengold-265_9783732560165.json	reading-sample	meta	reading-sample	722	1348	2647	1299	1.9636	128	1	1	1	1
