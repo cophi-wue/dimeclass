@@ -1,31 +1,99 @@
-# Aim
+# dimeclass
 
-This project aims to convert epub files of German dime novels into TEI XML format. In a second phase a classifier will be trained to classify text parts. 
-
-The conversion step involves defining a custom TEI schema (ODD) and developing a Python-based conversion script. 
-The basis input files for the converison is the [epub_unpack project by LennartKeller](https://github.com/LennartKeller/epub_unpack.git), which converts epub into JSON files (and performs rule-based classifications).
-
-See the TEI Mapping [documentation](conversion/docs/tei_schema_mapping.md) for the current JSON to TEI mapping approach.
-
-## Documentation: Goals
-
-- [x] Define a TEI schema (ODD) for the JSON data (with Roma).
-* Develop a JSON to TEI conversion script.
-
-## Documentation: working process
-1. epub to JSON conversion and rule-based classification: [epub_unpack by LennartKeller](https://github.com/LennartKeller/epub_unpack.git)
-2. [machine learning classification by ThoraHagen](https://github.com/LennartKeller/epub_unpack/tree/main/classifier)
-3. JSON to TEI conversion: 
-    - An initial idea was to check if we could reuse parts of the XSLT conversion structure used by the IDS in their [Epub to KorAP (via TEI I5) conversion project](https://github.com/KorAP/epub2korap) (see ["National Library as Corpus: Introducing DeLiKo@DNB – a Large Synchronous German Fiction Corpus"](https://doi.org/10.5281/zenodo.14943116.)). Upon closer inspection of their TEI conversion logic we decided that their approach does not fit the needs of our data structure. Since their TEI I5 schema is build around specific needs for linguistic data it would differ much from our dime novel data. Furthermore, the conversion uses Saxon EE which would lead to unwanted dependencies. Thus, we decided to continue working with our epub to JSON converter, which will serve as a middle processing step to the final TEI conversion.
+This repository contains the databse for the project "Erschließung und Strukturanalyse der Heftromane der Deutschen Nationalbibliothek" ( 01.08.2022-30.09.2026).
 
 
-## Global To Do
-ongoing list with overarching project ideas
--  Lennart's ideas:
-- Nora's ideas:
-    - Consolidate with rule-based approach (inferred type in JSON, script see extractor/pipeline/type_inference.py)
-    - Another classifier for the annotated true-type fields (exact instead of binary classification)
-    - Merge these scripts into the full pipeline for an easier workflow (maybe?)
+This project was developed at the [Chair of Computational Philology](https://www.germanistik.uni-wuerzburg.de/computerphilologie/) at the University of Würzburg in cooperation with the National Research Data Infrastructure (NFDI) consortium [Text+](https://text-plus.org/), spanning from 01.08.2022 to 30.09.2026.
+It aims at the sematic upconversion of German dime novels. 
 
-- integrate the project into Text+ monapipe
-- enrich metadata for the TEI files by fetching metadata from the DNB (inspired by the [Epub to KorAP (via TEI I5) conversion project](https://github.com/KorAP/epub2korap))
+For detailed information about the project see the [documenation portal]().
+
+
+
+This repository is research code rather than a packaged end-to-end converter. The individual scripts support different stages of the workflow, but they do not currently share a single command-line interface or portable configuration.
+
+## Workflow
+
+The intended processing stages are:
+
+1. Extract EPUB files into JSON with the external [epub_unpack project](https://github.com/cophi-wue/epub_unpack).
+2. Prepare identifiers for the source EPUB collection.
+3. Analyse HTML structure and content types in the JSON files.
+4. Split chapters and other content into work units for conversion and evaluation.
+5. Classify a test set of chunks with a selection of open-weight Large Language Models and evaluate the performance.
+
+The EPUB extraction step is external to this repository. The local scripts expect the resulting JSON structure and several scripts still contain machine-specific paths that must be changed before use.
+
+## Requirements
+
+- Python 3.12 or newer
+- [uv](https://docs.astral.sh/uv/)
+- Input EPUB or extracted JSON data, depending on the script being used
+
+Install the declared dependencies with:
+
+```bash
+uv sync
+```
+
+The repository also contains `uv.lock` to keep the Python dependencies reproducible.
+
+## Main Components
+
+### EPUB preparation
+
+[`conversion/scripts/python/epub_filename2id.py`](conversion/scripts/python/epub_filename2id.py) creates a tab-separated metadata file and copies EPUBs to ID-based filenames. Its functions are intended to be called from Python; it does not provide a command-line interface.
+
+### JSON analysis
+
+The analysis scripts inspect HTML tags, attributes, classes, nesting, and publisher-specific structure in the extracted JSON files. The outputs are written to `conversion/logs/` and are generated research artifacts, not source data.
+
+### Chunking
+
+[`conversion/scripts/python/chunking/chunking_chapters.py`](conversion/scripts/python/chunking/chunking_chapters.py) contains the reusable chunking logic. It flattens nested JSON content and applies different strategies for explicit chapters, star-separated novel sections, image-separated sections, and non-chapter material.
+
+[`conversion/scripts/python/chunking/chunking_chapters_json_inferred_type.py`](conversion/scripts/python/chunking/chunking_chapters_json_inferred_type.py) applies the same approach to nested JSON files with inferred content types. It writes chunking reports and `work_units.json` to its configured output directory.
+
+
+### Classification and evaluation
+
+The directories [`conversion/scripts/python/goldstandard_labels_creation`](conversion/scripts/python/goldstandard_labels_creation) and [`conversion/scripts/python/evaluation_labels`](conversion/scripts/python/evaluation_labels) contain scripts for creating labelled chunks, checking labels, running classification experiments, and calculating evaluation metrics. These workflows depend on specific local datasets and, in some cases, external model services or HPC environments.
+
+## Running a Component
+
+The root module is only a basic installation check:
+
+```bash
+uv run python main.py
+```
+
+For a chunking run, edit the input and output paths in the script first, then run:
+
+```bash
+uv run python conversion/scripts/python/chunking/chunking_chapters_json_inferred_type.py
+```
+
+The script expects nested JSON files under the configured input directory. It produces per-file and aggregate TSV reports together with a `work_units.json` file.
+
+There is currently no supported command that takes an EPUB and produces a complete TEI corpus without manual path and dataset configuration. The conversion and classification scripts should therefore be treated as independently runnable research components.
+
+## Repository Layout
+
+```text
+main.py                         Basic installation check
+pyproject.toml                  Project metadata and dependencies
+conversion/scripts/             Analysis, chunking, conversion, and evaluation code
+conversion/logs/                Generated logs and analysis results
+uv.lock                         Locked dependency versions
+```
+
+
+## Data and Paths
+
+Book files and extracted JSON data are local working data. They are ignored by Git and are not supplied by the Python package. Before running a script:
+
+1. Place the required input data in the directory expected by that script.
+2. Replace hard-coded absolute paths with paths on your machine.
+3. Choose an output directory outside the source data.
+
+The external `epub_unpack` project is responsible for the EPUB-to-JSON extraction stage.
