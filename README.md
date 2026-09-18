@@ -6,7 +6,7 @@ This repository contains the databse for the project "Erschließung und Struktur
 This project was developed at the [Chair of Computational Philology](https://www.germanistik.uni-wuerzburg.de/computerphilologie/) at the University of Würzburg in cooperation with the National Research Data Infrastructure (NFDI) consortium [Text+](https://text-plus.org/), spanning from 01.08.2022 to 30.09.2026.
 It aims at the sematic upconversion of German dime novels. 
 
-For detailed information about the project see the [documenation portal]().
+For detailed information about the project see the [documenation portal](https://cophi-wue.github.io/semantic-upconversion/).
 
 
 
