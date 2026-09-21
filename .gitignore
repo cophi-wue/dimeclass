@@ -28,3 +28,6 @@ trash_temp/
 
 # Virtual environments
 .venv
+
+# Local credentials and environment configuration
+conversion/scripts/python/chunking/.env
